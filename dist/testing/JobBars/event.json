@@ -1,7 +1,7 @@
 {
-  "after": "2a692b0308ce4752428a15ed9c895ffa7c07860d",
+  "after": "32bb92a61104186f8e3a0c1cdf6aa2bd9b0285e5",
   "base_ref": null,
-  "before": "4b474360e94ecd27df74ddaa8b68192a5fbf83c1",
+  "before": "2a692b0308ce4752428a15ed9c895ffa7c07860d",
   "commits": [
     {
       "author": {
@@ -15,14 +15,14 @@
         "username": "a1hena"
       },
       "distinct": true,
-      "id": "2a692b0308ce4752428a15ed9c895ffa7c07860d",
-      "message": "update deploy expr",
-      "timestamp": "2022-09-01T03:21:24+09:00",
-      "tree_id": "b599cfbc2013b115ca750bd3d0a37879757b2d7f",
-      "url": "https://github.com/a1hena/JobBars/commit/2a692b0308ce4752428a15ed9c895ffa7c07860d"
+      "id": "32bb92a61104186f8e3a0c1cdf6aa2bd9b0285e5",
+      "message": "update custom version",
+      "timestamp": "2022-09-01T03:26:03+09:00",
+      "tree_id": "898a6671067adae309918a1ac849b962cc6cdd85",
+      "url": "https://github.com/a1hena/JobBars/commit/32bb92a61104186f8e3a0c1cdf6aa2bd9b0285e5"
     }
   ],
-  "compare": "https://github.com/a1hena/JobBars/compare/4b474360e94e...2a692b0308ce",
+  "compare": "https://github.com/a1hena/JobBars/compare/2a692b0308ce...32bb92a61104",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +38,11 @@
       "username": "a1hena"
     },
     "distinct": true,
-    "id": "2a692b0308ce4752428a15ed9c895ffa7c07860d",
-    "message": "update deploy expr",
-    "timestamp": "2022-09-01T03:21:24+09:00",
-    "tree_id": "b599cfbc2013b115ca750bd3d0a37879757b2d7f",
-    "url": "https://github.com/a1hena/JobBars/commit/2a692b0308ce4752428a15ed9c895ffa7c07860d"
+    "id": "32bb92a61104186f8e3a0c1cdf6aa2bd9b0285e5",
+    "message": "update custom version",
+    "timestamp": "2022-09-01T03:26:03+09:00",
+    "tree_id": "898a6671067adae309918a1ac849b962cc6cdd85",
+    "url": "https://github.com/a1hena/JobBars/commit/32bb92a61104186f8e3a0c1cdf6aa2bd9b0285e5"
   },
   "pusher": {
     "email": "102157679+a1hena@users.noreply.github.com",
@@ -136,7 +136,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/a1hena/JobBars/pulls{/number}",
-    "pushed_at": 1661970095,
+    "pushed_at": 1661970378,
     "releases_url": "https://api.github.com/repos/a1hena/JobBars/releases{/id}",
     "size": 2411,
     "ssh_url": "git@github.com:a1hena/JobBars.git",
