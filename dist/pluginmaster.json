@@ -25,8 +25,8 @@
   {
     "ApplicableVersion": "any",
     "AssemblyVersion": "2.0.0.1",
-    "Author": "Haplo064",
-    "Changelog": "7752f34: Create ci.yaml\n5ea6264: Private who knows\nbc6524f: Commited lockfile\n622e3c5: Updated for 6.2\nada9099: 2.0 update\n\n- Many things\nd72868d: Api bump\n\nYe\n040a427: Merge pull request #8 from Haplo064/net5\n\nNet5\nb9e6196: Update PixelPerfect.csproj\n\nUpdated for api5 and endwalker\n4ee5b30: View fix\n78d5c4c: Delete PixelPerfect.sln.DotSettings.user\ne0c5a92: Merge pull request #5 from Haplo064/net5\n\nNet5\ndd7e87b: Image names\n\nx\n9db44ca: Net5\n\nUpdated for net 5, api4\n0b426b2: Updated for 5.5\n\n- Code revision included\n9c0809c: Update .gitignore\n\nz\n00727c9: Update .gitignore\n71f191f: Keeping Repo up to date\n\n- No big changes\n08fe9a9: Ring build\n\nAdded customisable ring around player char.\n664062d: Update to 1.1\n\n- Added instance check.\n- Added clickthrough.\n- Added outer ring.\n2856bd5: Save config\n\nPut it in the right bloody function lol\n43a6022: Initial Repo\n\nPixel Perfect first push",
+    "Author": "Haplo064 + a1hena",
+    "Changelog": "3e6266e: update meta\n7752f34: Create ci.yaml\n5ea6264: Private who knows\nbc6524f: Commited lockfile\n622e3c5: Updated for 6.2\nada9099: 2.0 update\n\n- Many things\nd72868d: Api bump\n\nYe\n040a427: Merge pull request #8 from Haplo064/net5\n\nNet5\nb9e6196: Update PixelPerfect.csproj\n\nUpdated for api5 and endwalker\n4ee5b30: View fix\n78d5c4c: Delete PixelPerfect.sln.DotSettings.user\ne0c5a92: Merge pull request #5 from Haplo064/net5\n\nNet5\ndd7e87b: Image names\n\nx\n9db44ca: Net5\n\nUpdated for net 5, api4\n0b426b2: Updated for 5.5\n\n- Code revision included\n9c0809c: Update .gitignore\n\nz\n00727c9: Update .gitignore\n71f191f: Keeping Repo up to date\n\n- No big changes\n08fe9a9: Ring build\n\nAdded customisable ring around player char.\n664062d: Update to 1.1\n\n- Added instance check.\n- Added clickthrough.\n- Added outer ring.\n2856bd5: Save config\n\nPut it in the right bloody function lol\n43a6022: Initial Repo\n\nPixel Perfect first push",
     "DalamudApiLevel": 7,
     "Description": "Showing exactly where to stand since 2020.",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/a1hena/PluginRepository/master/dist/testing/PixelPerfect/latest.zip",
@@ -40,9 +40,9 @@
     "InternalName": "PixelPerfect",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1661970661,
+    "LastUpdated": 1661971184,
     "LoadPriority": 0,
-    "Name": "Pixel Perfect",
+    "Name": "Pixel Perfect a1hena custom",
     "Punchline": "Reveals your hitbox, with customisable features.",
     "RepoUrl": "https://github.com/a1hena/PixelPerfect",
     "Tags": [
