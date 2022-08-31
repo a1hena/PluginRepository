@@ -1,7 +1,7 @@
 {
-  "after": "3e6266ef44730e6af098b7eca1a2695abc464c65",
+  "after": "a1859ca846934aea5705f2119efea6f66bf49164",
   "base_ref": null,
-  "before": "7752f3403f6d30e1dd38d0ce3d5793731bf51883",
+  "before": "3e6266ef44730e6af098b7eca1a2695abc464c65",
   "commits": [
     {
       "author": {
@@ -15,14 +15,14 @@
         "username": "a1hena"
       },
       "distinct": true,
-      "id": "3e6266ef44730e6af098b7eca1a2695abc464c65",
-      "message": "update meta",
-      "timestamp": "2022-09-01T03:39:44+09:00",
-      "tree_id": "7ebd6925814b834900d6630da149937a7ac63fbf",
-      "url": "https://github.com/a1hena/PixelPerfect/commit/3e6266ef44730e6af098b7eca1a2695abc464c65"
+      "id": "a1859ca846934aea5705f2119efea6f66bf49164",
+      "message": "Update PixelPerfect.json",
+      "timestamp": "2022-09-01T03:52:48+09:00",
+      "tree_id": "0febabfd155d287efa08df7135ce77918f12e947",
+      "url": "https://github.com/a1hena/PixelPerfect/commit/a1859ca846934aea5705f2119efea6f66bf49164"
     }
   ],
-  "compare": "https://github.com/a1hena/PixelPerfect/compare/7752f3403f6d...3e6266ef4473",
+  "compare": "https://github.com/a1hena/PixelPerfect/compare/3e6266ef4473...a1859ca84693",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +38,11 @@
       "username": "a1hena"
     },
     "distinct": true,
-    "id": "3e6266ef44730e6af098b7eca1a2695abc464c65",
-    "message": "update meta",
-    "timestamp": "2022-09-01T03:39:44+09:00",
-    "tree_id": "7ebd6925814b834900d6630da149937a7ac63fbf",
-    "url": "https://github.com/a1hena/PixelPerfect/commit/3e6266ef44730e6af098b7eca1a2695abc464c65"
+    "id": "a1859ca846934aea5705f2119efea6f66bf49164",
+    "message": "Update PixelPerfect.json",
+    "timestamp": "2022-09-01T03:52:48+09:00",
+    "tree_id": "0febabfd155d287efa08df7135ce77918f12e947",
+    "url": "https://github.com/a1hena/PixelPerfect/commit/a1859ca846934aea5705f2119efea6f66bf49164"
   },
   "pusher": {
     "email": "102157679+a1hena@users.noreply.github.com",
@@ -130,7 +130,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/a1hena/PixelPerfect/pulls{/number}",
-    "pushed_at": 1661971187,
+    "pushed_at": 1661971971,
     "releases_url": "https://api.github.com/repos/a1hena/PixelPerfect/releases{/id}",
     "size": 1442,
     "ssh_url": "git@github.com:a1hena/PixelPerfect.git",
