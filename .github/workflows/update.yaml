@@ -5,6 +5,7 @@ on:
     paths-ignore:
       - '**.md'
       - '**/pluginmaster.json'
+      - '.github/workflows/*.yaml'
 
     branches:
       - master
