@@ -33,18 +33,6 @@ jobs:
           name: '${{ inputs.plugin-name }}'
           path: 'dist/testing/${{ inputs.plugin-name }}'
 
-      - name: Download Artifact (gitversion.json)
-        uses: actions/download-artifact@v3
-        with:
-          name: 'gitversion.json'
-          path: 'gitversion'
-
-      - name: Read InformationalVersion
-        id: version
-        run: |
-          value=$(cat gitversion/gitversion.json | jq .InformationalVersion)
-          rm -rf gitversion
-          echo "::set-output name=value::$value"
       - name: Prepare commits.json
         run: |
           curl \

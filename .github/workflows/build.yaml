@@ -53,10 +53,3 @@ jobs:
           name: '${{ inputs.plugin-name }}'
           path: '${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}'
           if-no-files-found: error
-
-      - name: Upload Artifact (gitversion.json)
-        uses: actions/upload-artifact@v3
-        with:
-          name: 'gitversion.json'
-          path: '${{ inputs.plugin-name }}\obj\gitversion.json'
-          if-no-files-found: error
