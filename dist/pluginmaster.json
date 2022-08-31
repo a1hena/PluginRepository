@@ -24,6 +24,35 @@
   },
   {
     "ApplicableVersion": "any",
+    "AssemblyVersion": "1.0.7",
+    "Author": "shdwp, Avaflow, a1hena",
+    "Changelog": "4f8a4a9: fix ci error\nf8f6c98: implovement pluginrepo\nbf67d9d: Update PartyIcons.csproj\n6413831: Update to API v7/net6 and port to Dalamud.ContextMenu\ncd6e660: Merge pull request #55 from status102/main\n\nUpdate PlayerStylesheet.cs\ne05c1d4: Build info updated\n9fc8f1a: Ported context menu to dalamud api; Added opcodes fetching from the web; Minor code cleanups\n811aff1: Update PlayerStylesheet.cs\n\nreplace the rolename with d1234, when EasternNamingConvention is true\nb676188: release: v1.0.6\n4485b81: release: 1.0.5\nc4a1179: fix: reset modes if config is invalid (fixes #46)\n349ba37: fix: disable in PvP matches\nc162d1a: fix: don't allow potential rce with notice text\na3a3df3: chore: reformat/cleanup to prepare for refactoring\nc03c654: fix icon url\n1434dca: v1.0.4.0: FFXIV 6.1 / Dalamud api6 update\nb0e601b: hotfix: add notice\naddba2b: Added bozja nameplate settings; Added Hide option to nameplates; Added small job icons and role mode; Fixed plugin not respecting game name abbreviation settings; Raised limit for static assignment text entry to 64 characters\n0c0c7a2: Show status icons in Small Icon preset\nb29a20d: More fixes for party list hud updater\n5e7e482: Fix for party list roles reverting back to slot numbers after death\n9a96617: Feature to display roles in the Party List\nb0342f8: Icon pack option; OnlyColor chat mode option; Fixed MSQ dungeons counting as raids; Added static assignments; Added icon set and icon size option\n9f53310: Removed role suggestion toast; Fixed missing H2 in context menu; Fixed misplaced chat prefix in alliance; Fixed misaligned role number in BigIconAndRole preset; BigIconAndRole is now BigIconAndPartyNumber\n06d96d0: Added chat message prefixes (role & job); Improved chat role tracker; Improved Eastern Naming Convention option, which now also alters names in context menu\nf16cbaf: EW update; Added eastern role naming convention option; Minor updates\nc2f69b0: Assets update, regex support for role tracker, minor fixes\nd389383: Added images and help text\n00025e5: Initial\nddd233d: initial commit",
+    "DalamudApiLevel": 7,
+    "Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/a1hena/PluginRepository/master/dist/testing/PartyIcons/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/a1hena/PluginRepository/master/dist/testing/PartyIcons/latest.zip",
+    "IconUrl": "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/PartyIcons/images/icon.png",
+    "ImageUrls": [
+      "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/PartyIcons/images/image1.png",
+      "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/PartyIcons/images/image2.png",
+      "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/PartyIcons/images/image3.png",
+      "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/PartyIcons/images/image4.png"
+    ],
+    "InternalName": "PartyIcons",
+    "IsHide": false,
+    "IsTestingExclusive": true,
+    "LastUpdated": 1661972562,
+    "LoadPriority": 0,
+    "Name": "PartyIcons a1hena custom",
+    "Punchline": "Replace names with job icons, raid role positions and more!",
+    "RepoUrl": "https://github.com/a1hena/xivPartyIcons",
+    "Tags": [
+      "UI"
+    ],
+    "TestingAssemblyVersion": "1.0.7"
+  },
+  {
+    "ApplicableVersion": "any",
     "AssemblyVersion": "2.0.0.1",
     "Author": "Haplo064 + a1hena",
     "Changelog": "a1859ca: Update PixelPerfect.json\n3e6266e: update meta\n7752f34: Create ci.yaml\n5ea6264: Private who knows\nbc6524f: Commited lockfile\n622e3c5: Updated for 6.2\nada9099: 2.0 update\n\n- Many things\nd72868d: Api bump\n\nYe\n040a427: Merge pull request #8 from Haplo064/net5\n\nNet5\nb9e6196: Update PixelPerfect.csproj\n\nUpdated for api5 and endwalker\n4ee5b30: View fix\n78d5c4c: Delete PixelPerfect.sln.DotSettings.user\ne0c5a92: Merge pull request #5 from Haplo064/net5\n\nNet5\ndd7e87b: Image names\n\nx\n9db44ca: Net5\n\nUpdated for net 5, api4\n0b426b2: Updated for 5.5\n\n- Code revision included\n9c0809c: Update .gitignore\n\nz\n00727c9: Update .gitignore\n71f191f: Keeping Repo up to date\n\n- No big changes\n08fe9a9: Ring build\n\nAdded customisable ring around player char.\n664062d: Update to 1.1\n\n- Added instance check.\n- Added clickthrough.\n- Added outer ring.\n2856bd5: Save config\n\nPut it in the right bloody function lol\n43a6022: Initial Repo\n\nPixel Perfect first push",
