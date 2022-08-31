@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "ApplicableVersion": "any",
+    "AssemblyVersion": "1.2.3.0",
+    "Author": "ocealot",
+    "Changelog": "2a692b0: update deploy expr\n4b47436: kick\n98c9440: add ci workflow\ne551cf4: Merge branch 'main' of https://github.com/0ceal0t/JobBars\na4c14c2: v1.2.3.0\n78a6355: fix structs, update visuals to be more consistent with centered icons\nf9d2ba8: UI tweaks, fix issue where party list glow not hidden\n1078107: Update README.md\n4343d9a: some refactoring, fix issues with AST cards\n093c39f: UI tweaks\n469db6f: v1.2.2.4\n59eb98f: rework texture loading to account for new penumbra\n908de73: remove ILRepack, add client struct dlls\nb7848a1: prep for net6\nd7fa17f: adjustment TrackerState.Running Timeleft offset\n7f3e7e1: adjustment TimeLeft offset\n380286f: add DragonSight\nd42c2e2: add FeyBlessing\nf507e09: add Physis and PhysisII\n1c940cb: add Bloodbath\n5be2ea7: add SecondWind\n21f851c: remove Excogitation duration\n5926142: remove Recitation duration\n2fb6b59: add DeploymentTactics\n5588a6c: add Recitation\n4d9133c: add Excogitation\nf97e713: add PlenaryIndulgence\nf3e8c8e: add Synastry\n3ee0c98: fix Divination and Exaltation name\n0701251: add LucidDreaming",
+    "DalamudApiLevel": 7,
+    "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/a1hena/PluginRepository/master/dist/testing/JobBars/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/a1hena/PluginRepository/master/dist/testing/JobBars/latest.zip",
+    "InternalName": "JobBars",
+    "IsHide": false,
+    "IsTestingExclusive": true,
+    "LastUpdated": 1661970084,
+    "LoadPriority": 0,
+    "Name": "JobBars",
+    "Punchline": "Extra job gauges",
+    "RepoUrl": "https://github.com/a1hena/JobBars",
+    "Tags": [
+      "UI",
+      "Bars"
+    ],
+    "TestingAssemblyVersion": "1.2.3.0"
+  }
+]
