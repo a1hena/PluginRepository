@@ -49,6 +49,7 @@ jobs:
             '/p:AssemblyTitle="${{ env.PLUGIN_DESCRIPTION }}"'
       - name: Rename Custom Plugin dll
         run: |
+          pwd
           Copy-Item "bin\CIRelease\${{ inputs.plugin-name }}\${{ inputs.plugin-name }}.dll" "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}\${{ inputs.plugin-name }} a1hena custom.dll"
           Copy-Item "bin\CIRelease\${{ inputs.plugin-name }}\${{ inputs.plugin-name }}.json" "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}\${{ inputs.plugin-name }} a1hena custom.json"
 
