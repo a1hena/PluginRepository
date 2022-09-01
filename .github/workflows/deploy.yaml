@@ -1,4 +1,4 @@
-name: 'Deploy Plugin'
+name: "Deploy Plugin"
 
 on:
   workflow_call:
@@ -9,7 +9,7 @@ on:
       plugin-repository:
         required: false
         type: string
-        default: 'a1hena/PluginRepository'
+        default: "a1hena/PluginRepository"
     secrets:
       DEPLOY_GITHUB_TOKEN:
         required: true
@@ -24,14 +24,14 @@ jobs:
       - name: Checkout Plugin Repository
         uses: actions/checkout@v3
         with:
-          repository: '${{ inputs.plugin-repository }}'
-          token: '${{ secrets.DEPLOY_GITHUB_TOKEN }}'
+          repository: "${{ inputs.plugin-repository }}"
+          token: "${{ secrets.DEPLOY_GITHUB_TOKEN }}"
 
       - name: Download Artifact (release)
         uses: actions/download-artifact@v3
         with:
-          name: '${{ inputs.plugin-name }}'
-          path: 'dist/testing/${{ inputs.plugin-name }}'
+          name: "${{ inputs.plugin-name }}"
+          path: "dist/testing/${{ inputs.plugin-name }}"
 
       - name: Prepare commits.json
         run: |
@@ -44,11 +44,11 @@ jobs:
         run: echo '${{ toJSON(github.event) }}' > dist/testing/${{ inputs.plugin-name }}/event.json
 
       - name: Copy Artifact (stable)
-        if: github.event_name == 'release' || github.event_name == 'workflow_dispatch'
+        # if: github.event_name == 'release' || github.event_name == 'workflow_dispatch'
         run: cp -rf dist/testing/${{ inputs.plugin-name }} dist/stable/${{ inputs.plugin-name }}
 
       - name: Push to Plugin Repository
         uses: stefanzweifel/git-auto-commit-action@v4
         continue-on-error: true
         with:
-          commit_message: 'Deploy ${{ inputs.plugin-name }} ${{ steps.version.outputs.value }}'
+          commit_message: "Deploy ${{ inputs.plugin-name }} ${{ steps.version.outputs.value }}"
