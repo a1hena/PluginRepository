@@ -1,0 +1,2373 @@
+[
+  {
+    "sha": "4f8a4a97f5216540e1d548556cee0e379e1c1084",
+    "node_id": "C_kwDOH57QedoAKDRmOGE0YTk3ZjUyMTY1NDBlMWQ1NDg1NTZjZWUwZTM3OWUxYzEwODQ",
+    "commit": {
+      "author": {
+        "name": "a1hena",
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "date": "2022-08-31T19:02:42Z"
+      },
+      "committer": {
+        "name": "a1hena",
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "date": "2022-08-31T19:02:42Z"
+      },
+      "message": "fix ci error",
+      "tree": {
+        "sha": "bcee5325b308175e9171ee05791a8b1ecdb4b04b",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/bcee5325b308175e9171ee05791a8b1ecdb4b04b"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/4f8a4a97f5216540e1d548556cee0e379e1c1084",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/4f8a4a97f5216540e1d548556cee0e379e1c1084",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/4f8a4a97f5216540e1d548556cee0e379e1c1084",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/4f8a4a97f5216540e1d548556cee0e379e1c1084/comments",
+    "author": {
+      "login": "a1hena",
+      "id": 102157679,
+      "node_id": "U_kgDOBhbNbw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102157679?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/a1hena",
+      "html_url": "https://github.com/a1hena",
+      "followers_url": "https://api.github.com/users/a1hena/followers",
+      "following_url": "https://api.github.com/users/a1hena/following{/other_user}",
+      "gists_url": "https://api.github.com/users/a1hena/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/a1hena/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/a1hena/subscriptions",
+      "organizations_url": "https://api.github.com/users/a1hena/orgs",
+      "repos_url": "https://api.github.com/users/a1hena/repos",
+      "events_url": "https://api.github.com/users/a1hena/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/a1hena/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "a1hena",
+      "id": 102157679,
+      "node_id": "U_kgDOBhbNbw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102157679?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/a1hena",
+      "html_url": "https://github.com/a1hena",
+      "followers_url": "https://api.github.com/users/a1hena/followers",
+      "following_url": "https://api.github.com/users/a1hena/following{/other_user}",
+      "gists_url": "https://api.github.com/users/a1hena/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/a1hena/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/a1hena/subscriptions",
+      "organizations_url": "https://api.github.com/users/a1hena/orgs",
+      "repos_url": "https://api.github.com/users/a1hena/repos",
+      "events_url": "https://api.github.com/users/a1hena/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/a1hena/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f8f6c98543742e7189b8c69f230d516c28bb8f94",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/f8f6c98543742e7189b8c69f230d516c28bb8f94",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/f8f6c98543742e7189b8c69f230d516c28bb8f94"
+      }
+    ]
+  },
+  {
+    "sha": "f8f6c98543742e7189b8c69f230d516c28bb8f94",
+    "node_id": "C_kwDOH57QedoAKGY4ZjZjOTg1NDM3NDJlNzE4OWI4YzY5ZjIzMGQ1MTZjMjhiYjhmOTQ",
+    "commit": {
+      "author": {
+        "name": "a1hena",
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "date": "2022-08-31T18:59:21Z"
+      },
+      "committer": {
+        "name": "a1hena",
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "date": "2022-08-31T18:59:21Z"
+      },
+      "message": "implovement pluginrepo",
+      "tree": {
+        "sha": "61a19b5a235e89a07a2e861d5cb6f3b4e8045b29",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/61a19b5a235e89a07a2e861d5cb6f3b4e8045b29"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/f8f6c98543742e7189b8c69f230d516c28bb8f94",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/f8f6c98543742e7189b8c69f230d516c28bb8f94",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/f8f6c98543742e7189b8c69f230d516c28bb8f94",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/f8f6c98543742e7189b8c69f230d516c28bb8f94/comments",
+    "author": {
+      "login": "a1hena",
+      "id": 102157679,
+      "node_id": "U_kgDOBhbNbw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102157679?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/a1hena",
+      "html_url": "https://github.com/a1hena",
+      "followers_url": "https://api.github.com/users/a1hena/followers",
+      "following_url": "https://api.github.com/users/a1hena/following{/other_user}",
+      "gists_url": "https://api.github.com/users/a1hena/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/a1hena/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/a1hena/subscriptions",
+      "organizations_url": "https://api.github.com/users/a1hena/orgs",
+      "repos_url": "https://api.github.com/users/a1hena/repos",
+      "events_url": "https://api.github.com/users/a1hena/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/a1hena/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "a1hena",
+      "id": 102157679,
+      "node_id": "U_kgDOBhbNbw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102157679?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/a1hena",
+      "html_url": "https://github.com/a1hena",
+      "followers_url": "https://api.github.com/users/a1hena/followers",
+      "following_url": "https://api.github.com/users/a1hena/following{/other_user}",
+      "gists_url": "https://api.github.com/users/a1hena/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/a1hena/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/a1hena/subscriptions",
+      "organizations_url": "https://api.github.com/users/a1hena/orgs",
+      "repos_url": "https://api.github.com/users/a1hena/repos",
+      "events_url": "https://api.github.com/users/a1hena/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/a1hena/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "bf67d9d4e0a92ee5c6e5b14d22822820deaa2c32",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/bf67d9d4e0a92ee5c6e5b14d22822820deaa2c32",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/bf67d9d4e0a92ee5c6e5b14d22822820deaa2c32"
+      }
+    ]
+  },
+  {
+    "sha": "bf67d9d4e0a92ee5c6e5b14d22822820deaa2c32",
+    "node_id": "C_kwDOH57QedoAKGJmNjdkOWQ0ZTBhOTJlZTVjNmU1YjE0ZDIyODIyODIwZGVhYTJjMzI",
+    "commit": {
+      "author": {
+        "name": "a1hena",
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "date": "2022-08-31T18:56:29Z"
+      },
+      "committer": {
+        "name": "a1hena",
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "date": "2022-08-31T18:56:29Z"
+      },
+      "message": "Update PartyIcons.csproj",
+      "tree": {
+        "sha": "c4ec01ca0d657e41d73d43896d8a962ace961b04",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/c4ec01ca0d657e41d73d43896d8a962ace961b04"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/bf67d9d4e0a92ee5c6e5b14d22822820deaa2c32",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/bf67d9d4e0a92ee5c6e5b14d22822820deaa2c32",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/bf67d9d4e0a92ee5c6e5b14d22822820deaa2c32",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/bf67d9d4e0a92ee5c6e5b14d22822820deaa2c32/comments",
+    "author": {
+      "login": "a1hena",
+      "id": 102157679,
+      "node_id": "U_kgDOBhbNbw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102157679?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/a1hena",
+      "html_url": "https://github.com/a1hena",
+      "followers_url": "https://api.github.com/users/a1hena/followers",
+      "following_url": "https://api.github.com/users/a1hena/following{/other_user}",
+      "gists_url": "https://api.github.com/users/a1hena/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/a1hena/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/a1hena/subscriptions",
+      "organizations_url": "https://api.github.com/users/a1hena/orgs",
+      "repos_url": "https://api.github.com/users/a1hena/repos",
+      "events_url": "https://api.github.com/users/a1hena/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/a1hena/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "a1hena",
+      "id": 102157679,
+      "node_id": "U_kgDOBhbNbw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102157679?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/a1hena",
+      "html_url": "https://github.com/a1hena",
+      "followers_url": "https://api.github.com/users/a1hena/followers",
+      "following_url": "https://api.github.com/users/a1hena/following{/other_user}",
+      "gists_url": "https://api.github.com/users/a1hena/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/a1hena/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/a1hena/subscriptions",
+      "organizations_url": "https://api.github.com/users/a1hena/orgs",
+      "repos_url": "https://api.github.com/users/a1hena/repos",
+      "events_url": "https://api.github.com/users/a1hena/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/a1hena/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "641383199cd343eaad91b59052a372d7c1256c04",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/641383199cd343eaad91b59052a372d7c1256c04",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/641383199cd343eaad91b59052a372d7c1256c04"
+      }
+    ]
+  },
+  {
+    "sha": "641383199cd343eaad91b59052a372d7c1256c04",
+    "node_id": "C_kwDOH57QedoAKDY0MTM4MzE5OWNkMzQzZWFhZDkxYjU5MDUyYTM3MmQ3YzEyNTZjMDQ",
+    "commit": {
+      "author": {
+        "name": "squidmade",
+        "email": "squidmade@gmail.com",
+        "date": "2022-08-25T13:31:02Z"
+      },
+      "committer": {
+        "name": "squidmade",
+        "email": "99750849+squidmade@users.noreply.github.com",
+        "date": "2022-08-25T17:47:52Z"
+      },
+      "message": "Update to API v7/net6 and port to Dalamud.ContextMenu",
+      "tree": {
+        "sha": "6b88cb093f6fcf24312ccd0044413d84cbc20265",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/6b88cb093f6fcf24312ccd0044413d84cbc20265"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/641383199cd343eaad91b59052a372d7c1256c04",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/641383199cd343eaad91b59052a372d7c1256c04",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/641383199cd343eaad91b59052a372d7c1256c04",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/641383199cd343eaad91b59052a372d7c1256c04/comments",
+    "author": {
+      "login": "squidmade",
+      "id": 99750849,
+      "node_id": "U_kgDOBfITwQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99750849?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/squidmade",
+      "html_url": "https://github.com/squidmade",
+      "followers_url": "https://api.github.com/users/squidmade/followers",
+      "following_url": "https://api.github.com/users/squidmade/following{/other_user}",
+      "gists_url": "https://api.github.com/users/squidmade/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/squidmade/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/squidmade/subscriptions",
+      "organizations_url": "https://api.github.com/users/squidmade/orgs",
+      "repos_url": "https://api.github.com/users/squidmade/repos",
+      "events_url": "https://api.github.com/users/squidmade/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/squidmade/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "squidmade",
+      "id": 99750849,
+      "node_id": "U_kgDOBfITwQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99750849?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/squidmade",
+      "html_url": "https://github.com/squidmade",
+      "followers_url": "https://api.github.com/users/squidmade/followers",
+      "following_url": "https://api.github.com/users/squidmade/following{/other_user}",
+      "gists_url": "https://api.github.com/users/squidmade/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/squidmade/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/squidmade/subscriptions",
+      "organizations_url": "https://api.github.com/users/squidmade/orgs",
+      "repos_url": "https://api.github.com/users/squidmade/repos",
+      "events_url": "https://api.github.com/users/squidmade/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/squidmade/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "cd6e660c6380470c67d9dc2b1e3cd61714146a29",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/cd6e660c6380470c67d9dc2b1e3cd61714146a29",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/cd6e660c6380470c67d9dc2b1e3cd61714146a29"
+      }
+    ]
+  },
+  {
+    "sha": "cd6e660c6380470c67d9dc2b1e3cd61714146a29",
+    "node_id": "C_kwDOH57QedoAKGNkNmU2NjBjNjM4MDQ3MGM2N2Q5ZGMyYjFlM2NkNjE3MTQxNDZhMjk",
+    "commit": {
+      "author": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@gmail.com",
+        "date": "2022-07-17T19:56:41Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-07-17T19:56:41Z"
+      },
+      "message": "Merge pull request #55 from status102/main\n\nUpdate PlayerStylesheet.cs",
+      "tree": {
+        "sha": "a0f229e17f04c990ae77a2ad3983a27d2298f1c6",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/a0f229e17f04c990ae77a2ad3983a27d2298f1c6"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/cd6e660c6380470c67d9dc2b1e3cd61714146a29",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJi1Gl5CRBK7hj4Ov3rIwAAprwIAChjvbaoHF5+pT7oriG5nzMo\nZDI2Ak9aNLoa4bVGIwPiVSo53XWxxfPxEOyQsn1nJfAREPSDilg4LoAAyZzpKXIP\nIJzzXgdEherwZQ9aQpSeW282ZZ4s6quF+98Bm+2ymsVtvs7fZ9I7EICuDkPEwAVT\nr8uJyF9x+dEvRnemFRZEac9FBdcRCqpgq21Ty7VhxUFnlw67hQZoxibvravUfGRA\nJR51UIL3V3SxJBJV4HWVYXfxGIqHhnfCVvs0t1Bw48svFkdp70v1AvrlqZj5YRsr\no+SaXGTtunRGl7sW1fHR9WcOcnEjH9VvL0cph3Qz5dzI+V0AbiJWjmU/sB4sBRQ=\n=0Fyp\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree a0f229e17f04c990ae77a2ad3983a27d2298f1c6\nparent e05c1d4cf2db9d2610340121a3f76ad324a9c625\nparent 811aff189de9370818fd4dfe497e1beb4b29c362\nauthor Vasyl Horbachenko <vasyl.horbachenko@gmail.com> 1658087801 +0200\ncommitter GitHub <noreply@github.com> 1658087801 +0200\n\nMerge pull request #55 from status102/main\n\nUpdate PlayerStylesheet.cs"
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/cd6e660c6380470c67d9dc2b1e3cd61714146a29",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/cd6e660c6380470c67d9dc2b1e3cd61714146a29",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/cd6e660c6380470c67d9dc2b1e3cd61714146a29/comments",
+    "author": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e05c1d4cf2db9d2610340121a3f76ad324a9c625",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/e05c1d4cf2db9d2610340121a3f76ad324a9c625",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/e05c1d4cf2db9d2610340121a3f76ad324a9c625"
+      },
+      {
+        "sha": "811aff189de9370818fd4dfe497e1beb4b29c362",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/811aff189de9370818fd4dfe497e1beb4b29c362",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/811aff189de9370818fd4dfe497e1beb4b29c362"
+      }
+    ]
+  },
+  {
+    "sha": "e05c1d4cf2db9d2610340121a3f76ad324a9c625",
+    "node_id": "C_kwDOH57QedoAKGUwNWMxZDRjZjJkYjlkMjYxMDM0MDEyMWEzZjc2YWQzMjRhOWM2MjU",
+    "commit": {
+      "author": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@gmail.com",
+        "date": "2022-07-17T19:55:47Z"
+      },
+      "committer": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@gmail.com",
+        "date": "2022-07-17T19:55:47Z"
+      },
+      "message": "Build info updated",
+      "tree": {
+        "sha": "1f63d1dd14b37de99e2b71f531f236b013087551",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/1f63d1dd14b37de99e2b71f531f236b013087551"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/e05c1d4cf2db9d2610340121a3f76ad324a9c625",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/e05c1d4cf2db9d2610340121a3f76ad324a9c625",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/e05c1d4cf2db9d2610340121a3f76ad324a9c625",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/e05c1d4cf2db9d2610340121a3f76ad324a9c625/comments",
+    "author": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9fc8f1a644036a36a0a3c46a1983b069caf18693",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/9fc8f1a644036a36a0a3c46a1983b069caf18693",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/9fc8f1a644036a36a0a3c46a1983b069caf18693"
+      }
+    ]
+  },
+  {
+    "sha": "9fc8f1a644036a36a0a3c46a1983b069caf18693",
+    "node_id": "C_kwDOH57QedoAKDlmYzhmMWE2NDQwMzZhMzZhMGEzYzQ2YTE5ODNiMDY5Y2FmMTg2OTM",
+    "commit": {
+      "author": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@gmail.com",
+        "date": "2022-07-16T16:14:00Z"
+      },
+      "committer": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@gmail.com",
+        "date": "2022-07-16T16:14:00Z"
+      },
+      "message": "Ported context menu to dalamud api; Added opcodes fetching from the web; Minor code cleanups",
+      "tree": {
+        "sha": "cdc977f9075f36732c415c77d42414f30a8e47c3",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/cdc977f9075f36732c415c77d42414f30a8e47c3"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/9fc8f1a644036a36a0a3c46a1983b069caf18693",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/9fc8f1a644036a36a0a3c46a1983b069caf18693",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/9fc8f1a644036a36a0a3c46a1983b069caf18693",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/9fc8f1a644036a36a0a3c46a1983b069caf18693/comments",
+    "author": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b676188f0f362e37c1567172da1ef924438dcf0f",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/b676188f0f362e37c1567172da1ef924438dcf0f",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/b676188f0f362e37c1567172da1ef924438dcf0f"
+      }
+    ]
+  },
+  {
+    "sha": "811aff189de9370818fd4dfe497e1beb4b29c362",
+    "node_id": "C_kwDOH57QedoAKDgxMWFmZjE4OWRlOTM3MDgxOGZkNGRmZTQ5N2UxYmViNGIyOWMzNjI",
+    "commit": {
+      "author": {
+        "name": "status102",
+        "email": "102887808+status102@users.noreply.github.com",
+        "date": "2022-06-22T04:52:19Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-06-22T04:52:19Z"
+      },
+      "message": "Update PlayerStylesheet.cs\n\nreplace the rolename with d1234, when EasternNamingConvention is true",
+      "tree": {
+        "sha": "450f50b857f4cb4d52654f4f1aca46b2efbb2ce6",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/450f50b857f4cb4d52654f4f1aca46b2efbb2ce6"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/811aff189de9370818fd4dfe497e1beb4b29c362",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJisqADCRBK7hj4Ov3rIwAA2KoIACTN+U4IfYg6f5P6oYdZb9RF\nZWygP1/YWXWAIJpws2qgwpiaylXhUygp+mF9GYZTZ079mXw0b3wAG6enKScYM1a0\nAcSXRuxKnLg9K3ZQjVN+3dmeJ7Eip/Pf5ntMUETtled5iI+zYpVGEE3wrGvptKEG\nQTE5hXRIq6cGlPwkvvDZWfXCu4rv2KsibAO9oNschW/s01O3HpPB3xJ19PxFEDE6\najUm7gvu/3qBpObrveHn9NQFUkWkA+LEF5R9ZjouggaAlXSqgbdh9ZqsWlnM7vKA\nsTJNqnR9pOA1rEvCwYh8GiaLAoOzLYmpl2dumMR9Q/hYaVEOkQogToA7EBTNOiM=\n=gMEp\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 450f50b857f4cb4d52654f4f1aca46b2efbb2ce6\nparent b676188f0f362e37c1567172da1ef924438dcf0f\nauthor status102 <102887808+status102@users.noreply.github.com> 1655873539 +0800\ncommitter GitHub <noreply@github.com> 1655873539 +0800\n\nUpdate PlayerStylesheet.cs\n\nreplace the rolename with d1234, when EasternNamingConvention is true"
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/811aff189de9370818fd4dfe497e1beb4b29c362",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/811aff189de9370818fd4dfe497e1beb4b29c362",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/811aff189de9370818fd4dfe497e1beb4b29c362/comments",
+    "author": {
+      "login": "status102",
+      "id": 102887808,
+      "node_id": "U_kgDOBiHxgA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102887808?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/status102",
+      "html_url": "https://github.com/status102",
+      "followers_url": "https://api.github.com/users/status102/followers",
+      "following_url": "https://api.github.com/users/status102/following{/other_user}",
+      "gists_url": "https://api.github.com/users/status102/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/status102/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/status102/subscriptions",
+      "organizations_url": "https://api.github.com/users/status102/orgs",
+      "repos_url": "https://api.github.com/users/status102/repos",
+      "events_url": "https://api.github.com/users/status102/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/status102/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b676188f0f362e37c1567172da1ef924438dcf0f",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/b676188f0f362e37c1567172da1ef924438dcf0f",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/b676188f0f362e37c1567172da1ef924438dcf0f"
+      }
+    ]
+  },
+  {
+    "sha": "b676188f0f362e37c1567172da1ef924438dcf0f",
+    "node_id": "C_kwDOH57QedoAKGI2NzYxODhmMGYzNjJlMzdjMTU2NzE3MmRhMWVmOTI0NDM4ZGNmMGY",
+    "commit": {
+      "author": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-04-17T23:06:49Z"
+      },
+      "committer": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-04-17T23:06:49Z"
+      },
+      "message": "release: v1.0.6",
+      "tree": {
+        "sha": "db4471ee9913fb139ec845ed5f9786b8122f5f10",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/db4471ee9913fb139ec845ed5f9786b8122f5f10"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/b676188f0f362e37c1567172da1ef924438dcf0f",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/b676188f0f362e37c1567172da1ef924438dcf0f",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/b676188f0f362e37c1567172da1ef924438dcf0f",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/b676188f0f362e37c1567172da1ef924438dcf0f/comments",
+    "author": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4485b81018ffeb783c9d9e58681900070534eed4",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/4485b81018ffeb783c9d9e58681900070534eed4",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/4485b81018ffeb783c9d9e58681900070534eed4"
+      }
+    ]
+  },
+  {
+    "sha": "4485b81018ffeb783c9d9e58681900070534eed4",
+    "node_id": "C_kwDOH57QedoAKDQ0ODViODEwMThmZmViNzgzYzlkOWU1ODY4MTkwMDA3MDUzNGVlZDQ",
+    "commit": {
+      "author": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-04-17T22:53:35Z"
+      },
+      "committer": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-04-17T22:53:35Z"
+      },
+      "message": "release: 1.0.5",
+      "tree": {
+        "sha": "d6fe9ecf2a2a163409f8d29d853a508f7460e8d4",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/d6fe9ecf2a2a163409f8d29d853a508f7460e8d4"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/4485b81018ffeb783c9d9e58681900070534eed4",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/4485b81018ffeb783c9d9e58681900070534eed4",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/4485b81018ffeb783c9d9e58681900070534eed4",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/4485b81018ffeb783c9d9e58681900070534eed4/comments",
+    "author": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c4a1179c793b08c57513d60a34a1a5a89a15eaf3",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/c4a1179c793b08c57513d60a34a1a5a89a15eaf3",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/c4a1179c793b08c57513d60a34a1a5a89a15eaf3"
+      }
+    ]
+  },
+  {
+    "sha": "c4a1179c793b08c57513d60a34a1a5a89a15eaf3",
+    "node_id": "C_kwDOH57QedoAKGM0YTExNzljNzkzYjA4YzU3NTEzZDYwYTM0YTFhNWE4OWExNWVhZjM",
+    "commit": {
+      "author": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-04-17T22:52:10Z"
+      },
+      "committer": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-04-17T22:52:10Z"
+      },
+      "message": "fix: reset modes if config is invalid (fixes #46)",
+      "tree": {
+        "sha": "829ed8d38ebab8117640a78df336c0e3a407475a",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/829ed8d38ebab8117640a78df336c0e3a407475a"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/c4a1179c793b08c57513d60a34a1a5a89a15eaf3",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/c4a1179c793b08c57513d60a34a1a5a89a15eaf3",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/c4a1179c793b08c57513d60a34a1a5a89a15eaf3",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/c4a1179c793b08c57513d60a34a1a5a89a15eaf3/comments",
+    "author": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "349ba3721c704a58ab87585af60b313f270bfe00",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/349ba3721c704a58ab87585af60b313f270bfe00",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/349ba3721c704a58ab87585af60b313f270bfe00"
+      }
+    ]
+  },
+  {
+    "sha": "349ba3721c704a58ab87585af60b313f270bfe00",
+    "node_id": "C_kwDOH57QedoAKDM0OWJhMzcyMWM3MDRhNThhYjg3NTg1YWY2MGIzMTNmMjcwYmZlMDA",
+    "commit": {
+      "author": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-04-17T22:48:58Z"
+      },
+      "committer": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-04-17T22:48:58Z"
+      },
+      "message": "fix: disable in PvP matches",
+      "tree": {
+        "sha": "02756c22d814586a38fffc7e130b65a67ade8929",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/02756c22d814586a38fffc7e130b65a67ade8929"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/349ba3721c704a58ab87585af60b313f270bfe00",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/349ba3721c704a58ab87585af60b313f270bfe00",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/349ba3721c704a58ab87585af60b313f270bfe00",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/349ba3721c704a58ab87585af60b313f270bfe00/comments",
+    "author": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c162d1aa016409beb03ee6a5205b984eb819be69",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/c162d1aa016409beb03ee6a5205b984eb819be69",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/c162d1aa016409beb03ee6a5205b984eb819be69"
+      }
+    ]
+  },
+  {
+    "sha": "c162d1aa016409beb03ee6a5205b984eb819be69",
+    "node_id": "C_kwDOH57QedoAKGMxNjJkMWFhMDE2NDA5YmViMDNlZTZhNTIwNWI5ODRlYjgxOWJlNjk",
+    "commit": {
+      "author": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-04-17T22:18:32Z"
+      },
+      "committer": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-04-17T22:18:32Z"
+      },
+      "message": "fix: don't allow potential rce with notice text",
+      "tree": {
+        "sha": "767b8b12a442edfef094f7d5109a3524546543cc",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/767b8b12a442edfef094f7d5109a3524546543cc"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/c162d1aa016409beb03ee6a5205b984eb819be69",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/c162d1aa016409beb03ee6a5205b984eb819be69",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/c162d1aa016409beb03ee6a5205b984eb819be69",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/c162d1aa016409beb03ee6a5205b984eb819be69/comments",
+    "author": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a3a3df3f7a7cf5f6a4f3486cfb76caef2ca213b6",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/a3a3df3f7a7cf5f6a4f3486cfb76caef2ca213b6",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/a3a3df3f7a7cf5f6a4f3486cfb76caef2ca213b6"
+      }
+    ]
+  },
+  {
+    "sha": "a3a3df3f7a7cf5f6a4f3486cfb76caef2ca213b6",
+    "node_id": "C_kwDOH57QedoAKGEzYTNkZjNmN2E3Y2Y1ZjZhNGYzNDg2Y2ZiNzZjYWVmMmNhMjEzYjY",
+    "commit": {
+      "author": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-04-17T22:14:15Z"
+      },
+      "committer": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-04-17T22:14:15Z"
+      },
+      "message": "chore: reformat/cleanup to prepare for refactoring",
+      "tree": {
+        "sha": "9de2c525c886d7249fa77ff9ee87e9e6178ee542",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/9de2c525c886d7249fa77ff9ee87e9e6178ee542"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/a3a3df3f7a7cf5f6a4f3486cfb76caef2ca213b6",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/a3a3df3f7a7cf5f6a4f3486cfb76caef2ca213b6",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/a3a3df3f7a7cf5f6a4f3486cfb76caef2ca213b6",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/a3a3df3f7a7cf5f6a4f3486cfb76caef2ca213b6/comments",
+    "author": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c03c654d9921d724875196d466e4adeb70a5dd74",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/c03c654d9921d724875196d466e4adeb70a5dd74",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/c03c654d9921d724875196d466e4adeb70a5dd74"
+      }
+    ]
+  },
+  {
+    "sha": "c03c654d9921d724875196d466e4adeb70a5dd74",
+    "node_id": "C_kwDOH57QedoAKGMwM2M2NTRkOTkyMWQ3MjQ4NzUxOTZkNDY2ZTRhZGViNzBhNWRkNzQ",
+    "commit": {
+      "author": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-04-17T06:52:36Z"
+      },
+      "committer": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-04-17T06:52:36Z"
+      },
+      "message": "fix icon url",
+      "tree": {
+        "sha": "312883c549cb78d5df1ead87ec8b7c74fefd1a59",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/312883c549cb78d5df1ead87ec8b7c74fefd1a59"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/c03c654d9921d724875196d466e4adeb70a5dd74",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/c03c654d9921d724875196d466e4adeb70a5dd74",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/c03c654d9921d724875196d466e4adeb70a5dd74",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/c03c654d9921d724875196d466e4adeb70a5dd74/comments",
+    "author": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "1434dca3627bdaed599dd2889a61476ee6b1dd68",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/1434dca3627bdaed599dd2889a61476ee6b1dd68",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/1434dca3627bdaed599dd2889a61476ee6b1dd68"
+      }
+    ]
+  },
+  {
+    "sha": "1434dca3627bdaed599dd2889a61476ee6b1dd68",
+    "node_id": "C_kwDOH57QedoAKDE0MzRkY2EzNjI3YmRhZWQ1OTlkZDI4ODlhNjE0NzZlZTZiMWRkNjg",
+    "commit": {
+      "author": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-04-17T06:44:41Z"
+      },
+      "committer": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-04-17T06:44:41Z"
+      },
+      "message": "v1.0.4.0: FFXIV 6.1 / Dalamud api6 update",
+      "tree": {
+        "sha": "4a3f655865c6f551547f1ed08e766fd383ddeed3",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/4a3f655865c6f551547f1ed08e766fd383ddeed3"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/1434dca3627bdaed599dd2889a61476ee6b1dd68",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/1434dca3627bdaed599dd2889a61476ee6b1dd68",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/1434dca3627bdaed599dd2889a61476ee6b1dd68",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/1434dca3627bdaed599dd2889a61476ee6b1dd68/comments",
+    "author": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b0e601b8a23d3525943ab51a9c84041882787392",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/b0e601b8a23d3525943ab51a9c84041882787392",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/b0e601b8a23d3525943ab51a9c84041882787392"
+      }
+    ]
+  },
+  {
+    "sha": "b0e601b8a23d3525943ab51a9c84041882787392",
+    "node_id": "C_kwDOH57QedoAKGIwZTYwMWI4YTIzZDM1MjU5NDNhYjUxYTljODQwNDE4ODI3ODczOTI",
+    "commit": {
+      "author": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-03-02T07:59:53Z"
+      },
+      "committer": {
+        "name": "Ava Chaney",
+        "email": "hello@ava.dev",
+        "date": "2022-03-02T07:59:53Z"
+      },
+      "message": "hotfix: add notice",
+      "tree": {
+        "sha": "7d2b7b9689800dc66d3490c079ffb67562ddea71",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/7d2b7b9689800dc66d3490c079ffb67562ddea71"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/b0e601b8a23d3525943ab51a9c84041882787392",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/b0e601b8a23d3525943ab51a9c84041882787392",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/b0e601b8a23d3525943ab51a9c84041882787392",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/b0e601b8a23d3525943ab51a9c84041882787392/comments",
+    "author": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "avafloww",
+      "id": 654783,
+      "node_id": "MDQ6VXNlcjY1NDc4Mw==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/654783?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/avafloww",
+      "html_url": "https://github.com/avafloww",
+      "followers_url": "https://api.github.com/users/avafloww/followers",
+      "following_url": "https://api.github.com/users/avafloww/following{/other_user}",
+      "gists_url": "https://api.github.com/users/avafloww/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/avafloww/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/avafloww/subscriptions",
+      "organizations_url": "https://api.github.com/users/avafloww/orgs",
+      "repos_url": "https://api.github.com/users/avafloww/repos",
+      "events_url": "https://api.github.com/users/avafloww/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/avafloww/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "addba2b0f8c619bb7db0f3152a305d2dee37f6bc",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/addba2b0f8c619bb7db0f3152a305d2dee37f6bc",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/addba2b0f8c619bb7db0f3152a305d2dee37f6bc"
+      }
+    ]
+  },
+  {
+    "sha": "addba2b0f8c619bb7db0f3152a305d2dee37f6bc",
+    "node_id": "C_kwDOH57QedoAKGFkZGJhMmIwZjhjNjE5YmI3ZGIwZjMxNTJhMzA1ZDJkZWUzN2Y2YmM",
+    "commit": {
+      "author": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2022-01-01T10:35:48Z"
+      },
+      "committer": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2022-01-01T10:35:48Z"
+      },
+      "message": "Added bozja nameplate settings; Added Hide option to nameplates; Added small job icons and role mode; Fixed plugin not respecting game name abbreviation settings; Raised limit for static assignment text entry to 64 characters",
+      "tree": {
+        "sha": "3c9d3f732f43c444e2991715a0c483e60af430dd",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/3c9d3f732f43c444e2991715a0c483e60af430dd"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/addba2b0f8c619bb7db0f3152a305d2dee37f6bc",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/addba2b0f8c619bb7db0f3152a305d2dee37f6bc",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/addba2b0f8c619bb7db0f3152a305d2dee37f6bc",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/addba2b0f8c619bb7db0f3152a305d2dee37f6bc/comments",
+    "author": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0c0c7a2b258d831bf7efeba27e69bcbe5e274d81",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/0c0c7a2b258d831bf7efeba27e69bcbe5e274d81",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/0c0c7a2b258d831bf7efeba27e69bcbe5e274d81"
+      }
+    ]
+  },
+  {
+    "sha": "0c0c7a2b258d831bf7efeba27e69bcbe5e274d81",
+    "node_id": "C_kwDOH57QedoAKDBjMGM3YTJiMjU4ZDgzMWJmN2VmZWJhMjdlNjliY2JlNWUyNzRkODE",
+    "commit": {
+      "author": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-12-30T14:27:23Z"
+      },
+      "committer": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-12-30T14:27:23Z"
+      },
+      "message": "Show status icons in Small Icon preset",
+      "tree": {
+        "sha": "34e48fc854eeda35d5ef311fb5abab030b9a0567",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/34e48fc854eeda35d5ef311fb5abab030b9a0567"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/0c0c7a2b258d831bf7efeba27e69bcbe5e274d81",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/0c0c7a2b258d831bf7efeba27e69bcbe5e274d81",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/0c0c7a2b258d831bf7efeba27e69bcbe5e274d81",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/0c0c7a2b258d831bf7efeba27e69bcbe5e274d81/comments",
+    "author": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b29a20ddc94df04483bf31b5280583d1b0e62840",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/b29a20ddc94df04483bf31b5280583d1b0e62840",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/b29a20ddc94df04483bf31b5280583d1b0e62840"
+      }
+    ]
+  },
+  {
+    "sha": "b29a20ddc94df04483bf31b5280583d1b0e62840",
+    "node_id": "C_kwDOH57QedoAKGIyOWEyMGRkYzk0ZGYwNDQ4M2JmMzFiNTI4MDU4M2QxYjBlNjI4NDA",
+    "commit": {
+      "author": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-12-30T12:31:40Z"
+      },
+      "committer": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-12-30T12:31:40Z"
+      },
+      "message": "More fixes for party list hud updater",
+      "tree": {
+        "sha": "17f9ad90791f8d02d22ebf2635b14ad066e48b02",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/17f9ad90791f8d02d22ebf2635b14ad066e48b02"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/b29a20ddc94df04483bf31b5280583d1b0e62840",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/b29a20ddc94df04483bf31b5280583d1b0e62840",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/b29a20ddc94df04483bf31b5280583d1b0e62840",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/b29a20ddc94df04483bf31b5280583d1b0e62840/comments",
+    "author": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5e7e482e81992d57517b423671023f7a88fdec21",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/5e7e482e81992d57517b423671023f7a88fdec21",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/5e7e482e81992d57517b423671023f7a88fdec21"
+      }
+    ]
+  },
+  {
+    "sha": "5e7e482e81992d57517b423671023f7a88fdec21",
+    "node_id": "C_kwDOH57QedoAKDVlN2U0ODJlODE5OTJkNTc1MTdiNDIzNjcxMDIzZjdhODhmZGVjMjE",
+    "commit": {
+      "author": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-12-27T13:59:42Z"
+      },
+      "committer": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-12-27T13:59:42Z"
+      },
+      "message": "Fix for party list roles reverting back to slot numbers after death",
+      "tree": {
+        "sha": "9e0e1c59624003d22499a92fb1a4e591404538f1",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/9e0e1c59624003d22499a92fb1a4e591404538f1"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/5e7e482e81992d57517b423671023f7a88fdec21",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/5e7e482e81992d57517b423671023f7a88fdec21",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/5e7e482e81992d57517b423671023f7a88fdec21",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/5e7e482e81992d57517b423671023f7a88fdec21/comments",
+    "author": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9a96617497d545bd310ac1576d2a2ca3a9ac675d",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/9a96617497d545bd310ac1576d2a2ca3a9ac675d",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/9a96617497d545bd310ac1576d2a2ca3a9ac675d"
+      }
+    ]
+  },
+  {
+    "sha": "9a96617497d545bd310ac1576d2a2ca3a9ac675d",
+    "node_id": "C_kwDOH57QedoAKDlhOTY2MTc0OTdkNTQ1YmQzMTBhYzE1NzZkMmEyY2EzYTlhYzY3NWQ",
+    "commit": {
+      "author": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-12-27T10:41:58Z"
+      },
+      "committer": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-12-27T10:41:58Z"
+      },
+      "message": "Feature to display roles in the Party List",
+      "tree": {
+        "sha": "a02322d78621b088787d9b6e7c71f5563312e6ba",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/a02322d78621b088787d9b6e7c71f5563312e6ba"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/9a96617497d545bd310ac1576d2a2ca3a9ac675d",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/9a96617497d545bd310ac1576d2a2ca3a9ac675d",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/9a96617497d545bd310ac1576d2a2ca3a9ac675d",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/9a96617497d545bd310ac1576d2a2ca3a9ac675d/comments",
+    "author": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b0342f8e14919e828f8024204ff811a6b828136b",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/b0342f8e14919e828f8024204ff811a6b828136b",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/b0342f8e14919e828f8024204ff811a6b828136b"
+      }
+    ]
+  },
+  {
+    "sha": "b0342f8e14919e828f8024204ff811a6b828136b",
+    "node_id": "C_kwDOH57QedoAKGIwMzQyZjhlMTQ5MTllODI4ZjgwMjQyMDRmZjgxMWE2YjgyODEzNmI",
+    "commit": {
+      "author": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-12-26T14:32:04Z"
+      },
+      "committer": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-12-26T14:32:04Z"
+      },
+      "message": "Icon pack option; OnlyColor chat mode option; Fixed MSQ dungeons counting as raids; Added static assignments; Added icon set and icon size option",
+      "tree": {
+        "sha": "57eee52dcb167865c2763a6ff50e48e0907f26a9",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/57eee52dcb167865c2763a6ff50e48e0907f26a9"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/b0342f8e14919e828f8024204ff811a6b828136b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/b0342f8e14919e828f8024204ff811a6b828136b",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/b0342f8e14919e828f8024204ff811a6b828136b",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/b0342f8e14919e828f8024204ff811a6b828136b/comments",
+    "author": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9f53310fd9c565d50e42f4732d458f5a0573bf77",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/9f53310fd9c565d50e42f4732d458f5a0573bf77",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/9f53310fd9c565d50e42f4732d458f5a0573bf77"
+      }
+    ]
+  },
+  {
+    "sha": "9f53310fd9c565d50e42f4732d458f5a0573bf77",
+    "node_id": "C_kwDOH57QedoAKDlmNTMzMTBmZDljNTY1ZDUwZTQyZjQ3MzJkNDU4ZjVhMDU3M2JmNzc",
+    "commit": {
+      "author": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-12-26T10:37:35Z"
+      },
+      "committer": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-12-26T10:37:35Z"
+      },
+      "message": "Removed role suggestion toast; Fixed missing H2 in context menu; Fixed misplaced chat prefix in alliance; Fixed misaligned role number in BigIconAndRole preset; BigIconAndRole is now BigIconAndPartyNumber",
+      "tree": {
+        "sha": "43459c00c2c8fdb5c7ebccab565cef44e5879726",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/43459c00c2c8fdb5c7ebccab565cef44e5879726"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/9f53310fd9c565d50e42f4732d458f5a0573bf77",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/9f53310fd9c565d50e42f4732d458f5a0573bf77",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/9f53310fd9c565d50e42f4732d458f5a0573bf77",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/9f53310fd9c565d50e42f4732d458f5a0573bf77/comments",
+    "author": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "06d96d0b418988c02e4ffa086e40ed0315ac067f",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/06d96d0b418988c02e4ffa086e40ed0315ac067f",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/06d96d0b418988c02e4ffa086e40ed0315ac067f"
+      }
+    ]
+  },
+  {
+    "sha": "06d96d0b418988c02e4ffa086e40ed0315ac067f",
+    "node_id": "C_kwDOH57QedoAKDA2ZDk2ZDBiNDE4OTg4YzAyZTRmZmEwODZlNDBlZDAzMTVhYzA2N2Y",
+    "commit": {
+      "author": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-12-17T10:25:10Z"
+      },
+      "committer": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-12-17T10:25:10Z"
+      },
+      "message": "Added chat message prefixes (role & job); Improved chat role tracker; Improved Eastern Naming Convention option, which now also alters names in context menu",
+      "tree": {
+        "sha": "e318f9ab07b9b233152479f00d8e42d60079b765",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/e318f9ab07b9b233152479f00d8e42d60079b765"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/06d96d0b418988c02e4ffa086e40ed0315ac067f",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/06d96d0b418988c02e4ffa086e40ed0315ac067f",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/06d96d0b418988c02e4ffa086e40ed0315ac067f",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/06d96d0b418988c02e4ffa086e40ed0315ac067f/comments",
+    "author": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f16cbaf6512757c3fd709f849fbc409b13201fe1",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/f16cbaf6512757c3fd709f849fbc409b13201fe1",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/f16cbaf6512757c3fd709f849fbc409b13201fe1"
+      }
+    ]
+  },
+  {
+    "sha": "f16cbaf6512757c3fd709f849fbc409b13201fe1",
+    "node_id": "C_kwDOH57QedoAKGYxNmNiYWY2NTEyNzU3YzNmZDcwOWY4NDlmYmM0MDliMTMyMDFmZTE",
+    "commit": {
+      "author": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-12-07T11:30:41Z"
+      },
+      "committer": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-12-07T11:30:41Z"
+      },
+      "message": "EW update; Added eastern role naming convention option; Minor updates",
+      "tree": {
+        "sha": "ffaeba0a648678dcc71494f528cf383a07964a3e",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/ffaeba0a648678dcc71494f528cf383a07964a3e"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/f16cbaf6512757c3fd709f849fbc409b13201fe1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/f16cbaf6512757c3fd709f849fbc409b13201fe1",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/f16cbaf6512757c3fd709f849fbc409b13201fe1",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/f16cbaf6512757c3fd709f849fbc409b13201fe1/comments",
+    "author": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c2f69b0735f2eaa16e1f117077b9147b392abf2a",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/c2f69b0735f2eaa16e1f117077b9147b392abf2a",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/c2f69b0735f2eaa16e1f117077b9147b392abf2a"
+      }
+    ]
+  },
+  {
+    "sha": "c2f69b0735f2eaa16e1f117077b9147b392abf2a",
+    "node_id": "C_kwDOH57QedoAKGMyZjY5YjA3MzVmMmVhYTE2ZTFmMTE3MDc3YjkxNDdiMzkyYWJmMmE",
+    "commit": {
+      "author": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-10-24T18:34:17Z"
+      },
+      "committer": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-10-24T18:34:17Z"
+      },
+      "message": "Assets update, regex support for role tracker, minor fixes",
+      "tree": {
+        "sha": "16c647d7550ed9ed9f89d8cb96093664a133080a",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/16c647d7550ed9ed9f89d8cb96093664a133080a"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/c2f69b0735f2eaa16e1f117077b9147b392abf2a",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/c2f69b0735f2eaa16e1f117077b9147b392abf2a",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/c2f69b0735f2eaa16e1f117077b9147b392abf2a",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/c2f69b0735f2eaa16e1f117077b9147b392abf2a/comments",
+    "author": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d3893830b59e337ca6a8c4840e3c9a4d0f2445ae",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/d3893830b59e337ca6a8c4840e3c9a4d0f2445ae",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/d3893830b59e337ca6a8c4840e3c9a4d0f2445ae"
+      }
+    ]
+  },
+  {
+    "sha": "d3893830b59e337ca6a8c4840e3c9a4d0f2445ae",
+    "node_id": "C_kwDOH57QedoAKGQzODkzODMwYjU5ZTMzN2NhNmE4YzQ4NDBlM2M5YTRkMGYyNDQ1YWU",
+    "commit": {
+      "author": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-10-24T11:18:37Z"
+      },
+      "committer": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-10-24T11:18:37Z"
+      },
+      "message": "Added images and help text",
+      "tree": {
+        "sha": "dddace14cd1e2b6d3c33a1a631f394d36e724acd",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/dddace14cd1e2b6d3c33a1a631f394d36e724acd"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/d3893830b59e337ca6a8c4840e3c9a4d0f2445ae",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/d3893830b59e337ca6a8c4840e3c9a4d0f2445ae",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/d3893830b59e337ca6a8c4840e3c9a4d0f2445ae",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/d3893830b59e337ca6a8c4840e3c9a4d0f2445ae/comments",
+    "author": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "00025e580971a4e28075fb8f0a92eaba53353cb2",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/00025e580971a4e28075fb8f0a92eaba53353cb2",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/00025e580971a4e28075fb8f0a92eaba53353cb2"
+      }
+    ]
+  },
+  {
+    "sha": "00025e580971a4e28075fb8f0a92eaba53353cb2",
+    "node_id": "C_kwDOH57QedoAKDAwMDI1ZTU4MDk3MWE0ZTI4MDc1ZmI4ZjBhOTJlYWJhNTMzNTNjYjI",
+    "commit": {
+      "author": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-10-24T01:07:57Z"
+      },
+      "committer": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-10-24T01:08:55Z"
+      },
+      "message": "Initial",
+      "tree": {
+        "sha": "366e16ecce5c04ef9f0f412663b0f2e07e3ebb62",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/366e16ecce5c04ef9f0f412663b0f2e07e3ebb62"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/00025e580971a4e28075fb8f0a92eaba53353cb2",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/00025e580971a4e28075fb8f0a92eaba53353cb2",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/00025e580971a4e28075fb8f0a92eaba53353cb2",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/00025e580971a4e28075fb8f0a92eaba53353cb2/comments",
+    "author": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ddd233dd126e21ee0fcc97c00fd433f9a5016088",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/ddd233dd126e21ee0fcc97c00fd433f9a5016088",
+        "html_url": "https://github.com/a1hena/xivPartyIcons/commit/ddd233dd126e21ee0fcc97c00fd433f9a5016088"
+      }
+    ]
+  },
+  {
+    "sha": "ddd233dd126e21ee0fcc97c00fd433f9a5016088",
+    "node_id": "C_kwDOH57QedoAKGRkZDIzM2RkMTI2ZTIxZWUwZmNjOTdjMDBmZDQzM2Y5YTUwMTYwODg",
+    "commit": {
+      "author": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-10-24T01:05:19Z"
+      },
+      "committer": {
+        "name": "Vasyl Horbachenko",
+        "email": "vasyl.horbachenko@build1.io",
+        "date": "2021-10-24T01:05:19Z"
+      },
+      "message": "initial commit",
+      "tree": {
+        "sha": "4b825dc642cb6eb9a060e54bf8d69288fbee4904",
+        "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees/4b825dc642cb6eb9a060e54bf8d69288fbee4904"
+      },
+      "url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/commits/ddd233dd126e21ee0fcc97c00fd433f9a5016088",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/ddd233dd126e21ee0fcc97c00fd433f9a5016088",
+    "html_url": "https://github.com/a1hena/xivPartyIcons/commit/ddd233dd126e21ee0fcc97c00fd433f9a5016088",
+    "comments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/commits/ddd233dd126e21ee0fcc97c00fd433f9a5016088/comments",
+    "author": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "shdwp",
+      "id": 1116392,
+      "node_id": "MDQ6VXNlcjExMTYzOTI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1116392?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/shdwp",
+      "html_url": "https://github.com/shdwp",
+      "followers_url": "https://api.github.com/users/shdwp/followers",
+      "following_url": "https://api.github.com/users/shdwp/following{/other_user}",
+      "gists_url": "https://api.github.com/users/shdwp/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/shdwp/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/shdwp/subscriptions",
+      "organizations_url": "https://api.github.com/users/shdwp/orgs",
+      "repos_url": "https://api.github.com/users/shdwp/repos",
+      "events_url": "https://api.github.com/users/shdwp/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/shdwp/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  }
+]
