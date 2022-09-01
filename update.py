@@ -20,6 +20,7 @@ def extract_manifests(env):
 
     return manifests
 
+
 def get_changelog(path):
     commits_path = f"{path}/commits.json"
     if not os.path.exists(commits_path):
@@ -37,6 +38,7 @@ def get_changelog(path):
         if x["commit"]["author"]["name"] != "github-actions"
     ]) or None
 
+
 def get_repo_url(path):
     event_path = f"{path}/event.json"
     if not os.path.exists(event_path):
@@ -49,6 +51,7 @@ def get_repo_url(path):
         return event["repository"]["html_url"]
 
     return None
+
 
 def get_last_updated(path):
     event_path = f"{path}/event.json"
@@ -81,6 +84,7 @@ def get_last_updated(path):
         epoch = datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
     return int(epoch.timestamp())
 
+
 def merge_manifests(stable):
     manifest_keys = set(list(stable.keys()))
 
@@ -94,23 +98,27 @@ def merge_manifests(stable):
 
         manifest["Changelog"] = get_changelog(stable_path)
         manifest["IsHide"] = False
-        manifest["RepoUrl"] = get_repo_url(stable_path) or stable_manifest.get("RepoUrl")
+        manifest["RepoUrl"] = get_repo_url(
+            stable_path) or stable_manifest.get("RepoUrl")
         manifest["AssemblyVersion"] = stable_manifest["AssemblyVersion"]
         manifest["IsTestingExclusive"] = False
-        manifest["LastUpdated"] = max(get_last_updated(stable_path))
+        manifest["LastUpdated"] = get_last_updated(stable_path)
         manifest["DownloadLinkInstall"] = stable_link
         manifest["Name"] = stable_manifest.get("Name") + " a1hena custom"
-        manifest["InternalName"] = stable_manifest.get("InternalName") + " a1hena custom"
+        manifest["InternalName"] = stable_manifest.get(
+            "InternalName") + " a1hena custom"
 
         manifests.append(manifest)
 
     return manifests
+
 
 def dump_master(manifests):
     manifests.sort(key=lambda x: x["InternalName"])
 
     with open("dist/pluginmaster.json", "w") as f:
         json.dump(manifests, f, indent=2, sort_keys=True)
+
 
 if __name__ == "__main__":
     stable = extract_manifests("stable")
