@@ -1,6 +1,6 @@
 {
   "Author": "shdwp, Avaflow, a1hena",
-  "Name": "PartyIcons",
+  "Name": "PartyIcons a1hena custom",
   "InternalName": "PartyIcons",
   "AssemblyVersion": "1.0.7",
   "Description": "Adjusts player nameplates base on current content. For example you can display raid positions (that are assigned automatically by listening to the chat), job icons, or names with job icons.",

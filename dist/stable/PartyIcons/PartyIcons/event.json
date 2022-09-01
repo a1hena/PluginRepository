@@ -1,53 +1,5 @@
 {
-  "after": "a314ba534834d6311321a04e6d73b7ed4709bcee",
-  "base_ref": null,
-  "before": "4f8a4a97f5216540e1d548556cee0e379e1c1084",
-  "commits": [
-    {
-      "author": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "committer": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "distinct": true,
-      "id": "a314ba534834d6311321a04e6d73b7ed4709bcee",
-      "message": "Update PartyIcons.json",
-      "timestamp": "2022-09-01T14:47:06+09:00",
-      "tree_id": "8b1fea4d4222aa587879ae9bfbcc1dfc87755a9e",
-      "url": "https://github.com/a1hena/xivPartyIcons/commit/a314ba534834d6311321a04e6d73b7ed4709bcee"
-    }
-  ],
-  "compare": "https://github.com/a1hena/xivPartyIcons/compare/4f8a4a97f521...a314ba534834",
-  "created": false,
-  "deleted": false,
-  "forced": false,
-  "head_commit": {
-    "author": {
-      "email": "102157679+a1hena@users.noreply.github.com",
-      "name": "a1hena",
-      "username": "a1hena"
-    },
-    "committer": {
-      "email": "102157679+a1hena@users.noreply.github.com",
-      "name": "a1hena",
-      "username": "a1hena"
-    },
-    "distinct": true,
-    "id": "a314ba534834d6311321a04e6d73b7ed4709bcee",
-    "message": "Update PartyIcons.json",
-    "timestamp": "2022-09-01T14:47:06+09:00",
-    "tree_id": "8b1fea4d4222aa587879ae9bfbcc1dfc87755a9e",
-    "url": "https://github.com/a1hena/xivPartyIcons/commit/a314ba534834d6311321a04e6d73b7ed4709bcee"
-  },
-  "pusher": {
-    "email": "102157679+a1hena@users.noreply.github.com",
-    "name": "a1hena"
-  },
+  "inputs": null,
   "ref": "refs/heads/main",
   "repository": {
     "allow_forking": true,
@@ -63,7 +15,7 @@
     "compare_url": "https://api.github.com/repos/a1hena/xivPartyIcons/compare/{base}...{head}",
     "contents_url": "https://api.github.com/repos/a1hena/xivPartyIcons/contents/{+path}",
     "contributors_url": "https://api.github.com/repos/a1hena/xivPartyIcons/contributors",
-    "created_at": 1661835224,
+    "created_at": "2022-08-30T04:53:44Z",
     "default_branch": "main",
     "deployments_url": "https://api.github.com/repos/a1hena/xivPartyIcons/deployments",
     "description": "XIV Dalamud plugin to show icons instead of names.",
@@ -97,7 +49,6 @@
     "language": "C#",
     "languages_url": "https://api.github.com/repos/a1hena/xivPartyIcons/languages",
     "license": null,
-    "master_branch": "main",
     "merges_url": "https://api.github.com/repos/a1hena/xivPartyIcons/merges",
     "milestones_url": "https://api.github.com/repos/a1hena/xivPartyIcons/milestones{/number}",
     "mirror_url": null,
@@ -108,7 +59,6 @@
     "open_issues_count": 0,
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/102157679?v=4",
-      "email": "102157679+a1hena@users.noreply.github.com",
       "events_url": "https://api.github.com/users/a1hena/events{/privacy}",
       "followers_url": "https://api.github.com/users/a1hena/followers",
       "following_url": "https://api.github.com/users/a1hena/following{/other_user}",
@@ -117,7 +67,6 @@
       "html_url": "https://github.com/a1hena",
       "id": 102157679,
       "login": "a1hena",
-      "name": "a1hena",
       "node_id": "U_kgDOBhbNbw",
       "organizations_url": "https://api.github.com/users/a1hena/orgs",
       "received_events_url": "https://api.github.com/users/a1hena/received_events",
@@ -130,11 +79,10 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/a1hena/xivPartyIcons/pulls{/number}",
-    "pushed_at": 1662011228,
+    "pushed_at": "2022-08-31T19:02:48Z",
     "releases_url": "https://api.github.com/repos/a1hena/xivPartyIcons/releases{/id}",
     "size": 3685,
     "ssh_url": "git@github.com:a1hena/xivPartyIcons.git",
-    "stargazers": 0,
     "stargazers_count": 0,
     "stargazers_url": "https://api.github.com/repos/a1hena/xivPartyIcons/stargazers",
     "statuses_url": "https://api.github.com/repos/a1hena/xivPartyIcons/statuses/{sha}",
@@ -146,7 +94,7 @@
     "topics": [],
     "trees_url": "https://api.github.com/repos/a1hena/xivPartyIcons/git/trees{/sha}",
     "updated_at": "2022-08-31T18:56:48Z",
-    "url": "https://github.com/a1hena/xivPartyIcons",
+    "url": "https://api.github.com/repos/a1hena/xivPartyIcons",
     "visibility": "public",
     "watchers": 0,
     "watchers_count": 0,
@@ -171,5 +119,6 @@
     "subscriptions_url": "https://api.github.com/users/a1hena/subscriptions",
     "type": "User",
     "url": "https://api.github.com/users/a1hena"
-  }
+  },
+  "workflow": ".github/workflows/ci.yaml"
 }
