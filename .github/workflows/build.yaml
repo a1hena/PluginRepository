@@ -57,5 +57,5 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: '${{ inputs.plugin-name }}'
-          path: '${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }} a1hena custom'
+          path: '${{ inputs.plugin-name }}\bin\CIRelease\*'
           if-no-files-found: error
