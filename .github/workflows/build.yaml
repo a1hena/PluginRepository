@@ -54,7 +54,7 @@ jobs:
           Copy-Item "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}.dll" "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }} a1hena custom.dll"
           Copy-Item "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}.json" "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }} a1hena custom.json"
           ls ${{ inputs.plugin-name }}\bin\CIRelease\
-          Compress-Archive -Path latest.zip -DestinationPath '${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }} a1hena custom.*'
+          Compress-Archive -Path latest.zip -DestinationPath "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }} a1hena custom.*"
       - name: Upload Artifact (release)
         uses: actions/upload-artifact@v3
         with:
