@@ -1,8 +1,26 @@
 {
-  "after": "2e2e008cdf8c75679b2f10858edc76be9e767923",
+  "after": "0fb847c71f1e013ccf9d3bd466524f6ae3f57512",
   "base_ref": null,
-  "before": "2b15c927af0f9bd0696ec3e12da348fa8ff02588",
+  "before": "2e2e008cdf8c75679b2f10858edc76be9e767923",
   "commits": [
+    {
+      "author": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "committer": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "distinct": true,
+      "id": "cf2a7bdc7c8ccc15a4a8d6c88a1d94b1a727c18f",
+      "message": "rework some icon stuff, add minor arcana icon",
+      "timestamp": "2022-08-31T14:31:52-04:00",
+      "tree_id": "1cedde2e57b178c84b3027e21a23bbade83f54ff",
+      "url": "https://github.com/a1hena/JobBars/commit/cf2a7bdc7c8ccc15a4a8d6c88a1d94b1a727c18f"
+    },
     {
       "author": {
         "email": "102157679+a1hena@users.noreply.github.com",
@@ -15,14 +33,32 @@
         "username": "a1hena"
       },
       "distinct": true,
-      "id": "2e2e008cdf8c75679b2f10858edc76be9e767923",
-      "message": "fix InternalNBame",
-      "timestamp": "2022-09-01T14:00:41+09:00",
-      "tree_id": "afa26a4b009427b269bb576aa6a50267825054af",
-      "url": "https://github.com/a1hena/JobBars/commit/2e2e008cdf8c75679b2f10858edc76be9e767923"
+      "id": "bc3a2deb5b42fcb283014cc38f66e4da3e63bd75",
+      "message": "Merge branch main of https://github.com/0ceal0t/JobBars",
+      "timestamp": "2022-09-01T14:08:53+09:00",
+      "tree_id": "cd5f06d304cca2de3558617e98c7f7f5d3d91f6d",
+      "url": "https://github.com/a1hena/JobBars/commit/bc3a2deb5b42fcb283014cc38f66e4da3e63bd75"
+    },
+    {
+      "author": {
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "name": "a1hena",
+        "username": "a1hena"
+      },
+      "committer": {
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "name": "a1hena",
+        "username": "a1hena"
+      },
+      "distinct": true,
+      "id": "0fb847c71f1e013ccf9d3bd466524f6ae3f57512",
+      "message": "update version",
+      "timestamp": "2022-09-01T14:09:00+09:00",
+      "tree_id": "25b329d5b69945339e0c11300e2e9c7e95d9a2d0",
+      "url": "https://github.com/a1hena/JobBars/commit/0fb847c71f1e013ccf9d3bd466524f6ae3f57512"
     }
   ],
-  "compare": "https://github.com/a1hena/JobBars/compare/2b15c927af0f...2e2e008cdf8c",
+  "compare": "https://github.com/a1hena/JobBars/compare/2e2e008cdf8c...0fb847c71f1e",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +74,11 @@
       "username": "a1hena"
     },
     "distinct": true,
-    "id": "2e2e008cdf8c75679b2f10858edc76be9e767923",
-    "message": "fix InternalNBame",
-    "timestamp": "2022-09-01T14:00:41+09:00",
-    "tree_id": "afa26a4b009427b269bb576aa6a50267825054af",
-    "url": "https://github.com/a1hena/JobBars/commit/2e2e008cdf8c75679b2f10858edc76be9e767923"
+    "id": "0fb847c71f1e013ccf9d3bd466524f6ae3f57512",
+    "message": "update version",
+    "timestamp": "2022-09-01T14:09:00+09:00",
+    "tree_id": "25b329d5b69945339e0c11300e2e9c7e95d9a2d0",
+    "url": "https://github.com/a1hena/JobBars/commit/0fb847c71f1e013ccf9d3bd466524f6ae3f57512"
   },
   "pusher": {
     "email": "102157679+a1hena@users.noreply.github.com",
@@ -136,7 +172,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/a1hena/JobBars/pulls{/number}",
-    "pushed_at": 1662008443,
+    "pushed_at": 1662008942,
     "releases_url": "https://api.github.com/repos/a1hena/JobBars/releases{/id}",
     "size": 2417,
     "ssh_url": "git@github.com:a1hena/JobBars.git",
