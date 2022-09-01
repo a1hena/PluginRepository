@@ -41,7 +41,7 @@ jobs:
         run: |
           dotnet build `
             --configuration Release `
-            -maxcpucount:1 `
+            -maxcpucount:2 `
             /p:OutputPath=bin\CIRelease\ `
             /p:Product=CustomPlugin `
             /p:Company=a1hena `
