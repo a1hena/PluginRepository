@@ -51,9 +51,12 @@ jobs:
         run: |
           pwd
           ls ${{ inputs.plugin-name }}\bin\CIRelease\
-          Copy-Item "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}.dll" "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}\${{ inputs.plugin-name }} a1hena custom.dll"
-          Copy-Item "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}.json" "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}\${{ inputs.plugin-name }} a1hena custom.json"
+          mkdir "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}-zip"
+          Copy-Item "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}.dll" "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}-zip\${{ inputs.plugin-name }} a1hena custom.dll"
+          Copy-Item "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}.json" "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}-zip\${{ inputs.plugin-name }} a1hena custom.json"
           ls ${{ inputs.plugin-name }}\bin\CIRelease\
+          ls "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}-zip"
+          Compress-Archive -Path "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}-zip" -DestinationPath "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}\latest.zip"
       - name: Upload Artifact (release)
         uses: actions/upload-artifact@v3
         with:
