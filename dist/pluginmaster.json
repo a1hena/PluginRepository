@@ -7,7 +7,7 @@
     "DalamudApiLevel": 7,
     "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/a1hena/PluginRepository/master/dist/stable/JobBars/latest.zip",
-    "InternalName": "JobBars",
+    "InternalName": "JobBars a1hena custom",
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdated": 1662008940,
@@ -35,7 +35,7 @@
       "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/PartyIcons/images/image3.png",
       "https://github.com/goatcorp/DalamudPlugins/raw/api6/plugins/PartyIcons/images/image4.png"
     ],
-    "InternalName": "PartyIcons",
+    "InternalName": "PartyIcons a1hena custom",
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdated": 1661972562,
@@ -61,7 +61,7 @@
       "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image2.png",
       "https://raw.githubusercontent.com/Haplo064/PixelPerfect/master/images/image3.png"
     ],
-    "InternalName": "PixelPerfect",
+    "InternalName": "PixelPerfect a1hena custom",
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdated": 1661971968,
