@@ -10,12 +10,12 @@ PROVIDER = os.getenv(
 def extract_manifests(env):
     manifests = {}
     for dirpath, _, filenames in os.walk(f"dist/{env}"):
-        if "latest.zip" not in filenames:
-            continue
 
-        with ZipFile(f"{dirpath}/latest.zip") as z:
-            plugin_name = dirpath.split("/")[-1]
-            manifest = json.loads(z.read(f"{plugin_name}.json").decode())
+        plugin_name = dirpath.split("/")[-1]
+        if f"{plugin_name}.json" not in filenames:
+            continue
+        with open(f"{dirpath}/{plugin_name}.json") as f:
+            manifest = json.load(f)
             manifests[manifest["InternalName"]] = manifest
 
     return manifests
