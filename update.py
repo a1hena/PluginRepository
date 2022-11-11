@@ -2,18 +2,21 @@ import json
 import os
 from datetime import datetime
 from zipfile import ZipFile
-
+from pprint import pprint
+from pathlib import Path
 PROVIDER = os.getenv(
     "PROVIDER", "https://raw.githubusercontent.com/a1hena/PluginRepository/master/dist")
 
 
 def extract_manifests(env):
     manifests = {}
-    for dirpath, _, filenames in os.walk(f"dist/{env}"):
+    env_path = (Path("dist") / env )
+    for dirpath in env_path.iterdir():
 
-        plugin_name = dirpath.split("/")[-1]
-        if f"{plugin_name}.json" not in filenames:
+        plugin_name = dirpath.name
+        if not (env_path/plugin_name/ f"{plugin_name}.json").exists():
             continue
+        pprint(plugin_name)
         with open(f"{dirpath}/{plugin_name}.json") as f:
             manifest = json.load(f)
             manifests[manifest["InternalName"]] = manifest
@@ -123,6 +126,5 @@ def dump_master(manifests):
 
 if __name__ == "__main__":
     stable = extract_manifests("stable")
-
     manifests = merge_manifests(stable)
     dump_master(manifests)
