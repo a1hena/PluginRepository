@@ -1,5 +1,53 @@
 {
-  "inputs": null,
+  "after": "9cf705de614406650eaf069676c713eb3522dd99",
+  "base_ref": null,
+  "before": "80e7a6545499d6b307ab14b16869cbbe9e978000",
+  "commits": [
+    {
+      "author": {
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "name": "a1hena",
+        "username": "a1hena"
+      },
+      "committer": {
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "name": "a1hena",
+        "username": "a1hena"
+      },
+      "distinct": true,
+      "id": "9cf705de614406650eaf069676c713eb3522dd99",
+      "message": "[WIP] .NET7.0",
+      "timestamp": "2023-01-13T02:03:23+09:00",
+      "tree_id": "e379e713f86878cd19af14b4d1757ee6cb4d7df4",
+      "url": "https://github.com/a1hena/JobBars/commit/9cf705de614406650eaf069676c713eb3522dd99"
+    }
+  ],
+  "compare": "https://github.com/a1hena/JobBars/compare/80e7a6545499...9cf705de6144",
+  "created": false,
+  "deleted": false,
+  "forced": false,
+  "head_commit": {
+    "author": {
+      "email": "102157679+a1hena@users.noreply.github.com",
+      "name": "a1hena",
+      "username": "a1hena"
+    },
+    "committer": {
+      "email": "102157679+a1hena@users.noreply.github.com",
+      "name": "a1hena",
+      "username": "a1hena"
+    },
+    "distinct": true,
+    "id": "9cf705de614406650eaf069676c713eb3522dd99",
+    "message": "[WIP] .NET7.0",
+    "timestamp": "2023-01-13T02:03:23+09:00",
+    "tree_id": "e379e713f86878cd19af14b4d1757ee6cb4d7df4",
+    "url": "https://github.com/a1hena/JobBars/commit/9cf705de614406650eaf069676c713eb3522dd99"
+  },
+  "pusher": {
+    "email": "102157679+a1hena@users.noreply.github.com",
+    "name": "a1hena"
+  },
   "ref": "refs/heads/main",
   "repository": {
     "allow_forking": true,
@@ -15,7 +63,7 @@
     "compare_url": "https://api.github.com/repos/a1hena/JobBars/compare/{base}...{head}",
     "contents_url": "https://api.github.com/repos/a1hena/JobBars/contents/{+path}",
     "contributors_url": "https://api.github.com/repos/a1hena/JobBars/contributors",
-    "created_at": "2022-06-08T12:06:25Z",
+    "created_at": 1654689985,
     "default_branch": "main",
     "deployments_url": "https://api.github.com/repos/a1hena/JobBars/deployments",
     "description": "A plugin for XIVQuickLauncher which provides extra job bars",
@@ -31,6 +79,7 @@
     "git_refs_url": "https://api.github.com/repos/a1hena/JobBars/git/refs{/sha}",
     "git_tags_url": "https://api.github.com/repos/a1hena/JobBars/git/tags{/sha}",
     "git_url": "git://github.com/a1hena/JobBars.git",
+    "has_discussions": false,
     "has_downloads": true,
     "has_issues": false,
     "has_pages": false,
@@ -55,6 +104,7 @@
       "spdx_id": "AGPL-3.0",
       "url": "https://api.github.com/licenses/agpl-3.0"
     },
+    "master_branch": "main",
     "merges_url": "https://api.github.com/repos/a1hena/JobBars/merges",
     "milestones_url": "https://api.github.com/repos/a1hena/JobBars/milestones{/number}",
     "mirror_url": null,
@@ -65,6 +115,7 @@
     "open_issues_count": 0,
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/102157679?v=4",
+      "email": "102157679+a1hena@users.noreply.github.com",
       "events_url": "https://api.github.com/users/a1hena/events{/privacy}",
       "followers_url": "https://api.github.com/users/a1hena/followers",
       "following_url": "https://api.github.com/users/a1hena/following{/other_user}",
@@ -73,6 +124,7 @@
       "html_url": "https://github.com/a1hena",
       "id": 102157679,
       "login": "a1hena",
+      "name": "a1hena",
       "node_id": "U_kgDOBhbNbw",
       "organizations_url": "https://api.github.com/users/a1hena/orgs",
       "received_events_url": "https://api.github.com/users/a1hena/received_events",
@@ -85,10 +137,11 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/a1hena/JobBars/pulls{/number}",
-    "pushed_at": "2022-09-01T05:45:51Z",
+    "pushed_at": 1673543006,
     "releases_url": "https://api.github.com/repos/a1hena/JobBars/releases{/id}",
     "size": 2436,
     "ssh_url": "git@github.com:a1hena/JobBars.git",
+    "stargazers": 0,
     "stargazers_count": 0,
     "stargazers_url": "https://api.github.com/repos/a1hena/JobBars/stargazers",
     "statuses_url": "https://api.github.com/repos/a1hena/JobBars/statuses/{sha}",
@@ -100,7 +153,7 @@
     "topics": [],
     "trees_url": "https://api.github.com/repos/a1hena/JobBars/git/trees{/sha}",
     "updated_at": "2022-07-19T12:35:37Z",
-    "url": "https://api.github.com/repos/a1hena/JobBars",
+    "url": "https://github.com/a1hena/JobBars",
     "visibility": "public",
     "watchers": 0,
     "watchers_count": 0,
@@ -125,6 +178,5 @@
     "subscriptions_url": "https://api.github.com/users/a1hena/subscriptions",
     "type": "User",
     "url": "https://api.github.com/users/a1hena"
-  },
-  "workflow": ".github/workflows/ci.yaml"
+  }
 }
