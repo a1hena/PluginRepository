@@ -1,7 +1,7 @@
 [
   {
-    "sha": "9cf705de614406650eaf069676c713eb3522dd99",
-    "node_id": "C_kwDOHeA4lNoAKDljZjcwNWRlNjE0NDA2NjUwZWFmMDY5Njc2YzcxM2ViMzUyMmRkOTk",
+    "sha": "7d03f1c67af9ac379e0f650c92c8ba78aef1f636",
+    "node_id": "C_kwDOHeA4lNoAKDdkMDNmMWM2N2FmOWFjMzc5ZTBmNjUwYzkyYzhiYTc4YWVmMWY2MzY",
     "commit": {
       "author": {
         "name": "a1hena",
@@ -11,14 +11,14 @@
       "committer": {
         "name": "a1hena",
         "email": "102157679+a1hena@users.noreply.github.com",
-        "date": "2023-01-12T17:03:23Z"
+        "date": "2023-01-12T17:07:49Z"
       },
       "message": "[WIP] .NET7.0",
       "tree": {
-        "sha": "e379e713f86878cd19af14b4d1757ee6cb4d7df4",
-        "url": "https://api.github.com/repos/a1hena/JobBars/git/trees/e379e713f86878cd19af14b4d1757ee6cb4d7df4"
+        "sha": "6d1bf456d8a2bb4878a6414a233cf9fbec5a5c83",
+        "url": "https://api.github.com/repos/a1hena/JobBars/git/trees/6d1bf456d8a2bb4878a6414a233cf9fbec5a5c83"
       },
-      "url": "https://api.github.com/repos/a1hena/JobBars/git/commits/9cf705de614406650eaf069676c713eb3522dd99",
+      "url": "https://api.github.com/repos/a1hena/JobBars/git/commits/7d03f1c67af9ac379e0f650c92c8ba78aef1f636",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -27,9 +27,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/a1hena/JobBars/commits/9cf705de614406650eaf069676c713eb3522dd99",
-    "html_url": "https://github.com/a1hena/JobBars/commit/9cf705de614406650eaf069676c713eb3522dd99",
-    "comments_url": "https://api.github.com/repos/a1hena/JobBars/commits/9cf705de614406650eaf069676c713eb3522dd99/comments",
+    "url": "https://api.github.com/repos/a1hena/JobBars/commits/7d03f1c67af9ac379e0f650c92c8ba78aef1f636",
+    "html_url": "https://github.com/a1hena/JobBars/commit/7d03f1c67af9ac379e0f650c92c8ba78aef1f636",
+    "comments_url": "https://api.github.com/repos/a1hena/JobBars/commits/7d03f1c67af9ac379e0f650c92c8ba78aef1f636/comments",
     "author": {
       "login": "a1hena",
       "id": 102157679,

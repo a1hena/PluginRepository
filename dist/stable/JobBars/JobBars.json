@@ -1,5 +1,5 @@
 {
-  "Author": "ocealot + a1hena",
+  "Author": "ocealot",
   "Name": "JobBars",
   "InternalName": "JobBars",
   "AssemblyVersion": "1.2.3.3",
@@ -10,7 +10,7 @@
     "UI",
     "Bars"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
   "LoadPriority": 0,
   "Punchline": "Extra job gauges"
 }
