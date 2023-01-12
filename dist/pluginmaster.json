@@ -76,11 +76,12 @@
     ]
   },
   {
+    "AcceptsFeedback": true,
     "ApplicableVersion": "any",
-    "AssemblyVersion": "1.3.0.7",
+    "AssemblyVersion": "1.4.0.1",
     "Author": "daemitus, a1hena",
-    "Changelog": "08c62e3: update action\nf6e59b3: ares/FFXIVClientStruct\n0723b77: if it breaks, blame chalk [PUSH]\n9448366: bump  [PUSH]\n2e7e499: An update [PUSH]\ne0bb0d9: Updated submodule lib/FFXIVClientStructs\n1ae2a43: Updated submodule lib/FFXIVClientStructs\nb8e3fd8: Merge pull request #86 from marimelon/item\n\n[New Feature] Add command to use items\na57a9e0: Add command to use items\nd77f145: bump [PUSH]\n4013020: Update help\n74d7e25: Add selectstring methods\n70585f3: Fix lua methods\ncd842d8: bump [PUSH]\n994ecb1: Update deps\nc8865a3: bump [PUSH]\nd629c5f: Support UTF-8 in LUA\nc552124: Update doc link\n10f8104: Configure chat channels\n3721c1f: Extract ICommandInterface\n9ec33cb: bump [PUSH]\na64b835: bump [PUSH]\nf862af6: Potential fix\n8b03fd3: Update send command\n97af86e: Updates\n7439fc2: Updates\n6870120: Tons of work\nd86ba5c: bump deps\n6e45463: bump [PUSH]\n46ea01d: New commands",
-    "DalamudApiLevel": 7,
+    "Changelog": "afb521d: Merge branch 'master' of https://github.com/daemitus/SomethingNeedDoing\na9e7a40: A test of sorts [PUSH]\n85d1dac: Removed submodule lib/FFXIVClientStructs\n162cec7: net7 bump [PUSH]\nef72a7d: net7 bump [PUSH]\n9bf233f: Merge pull request #109 from WilliamW1979/master [PUSH]\n\nUpdate\n7e33399: Update SomethingNeedDoing.csproj\na812823: Update SendCommand.cs\n08c62e3: update action\nf6e59b3: ares/FFXIVClientStruct\n0723b77: if it breaks, blame chalk [PUSH]\n9448366: bump  [PUSH]\n2e7e499: An update [PUSH]\ne0bb0d9: Updated submodule lib/FFXIVClientStructs\n1ae2a43: Updated submodule lib/FFXIVClientStructs\nb8e3fd8: Merge pull request #86 from marimelon/item\n\n[New Feature] Add command to use items\na57a9e0: Add command to use items\nd77f145: bump [PUSH]\n4013020: Update help\n74d7e25: Add selectstring methods\n70585f3: Fix lua methods\ncd842d8: bump [PUSH]\n994ecb1: Update deps\nc8865a3: bump [PUSH]\nd629c5f: Support UTF-8 in LUA\nc552124: Update doc link\n10f8104: Configure chat channels\n3721c1f: Extract ICommandInterface\n9ec33cb: bump [PUSH]\na64b835: bump [PUSH]",
+    "DalamudApiLevel": 8,
     "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/a1hena/PluginRepository/master/dist/stable/SomethingNeedDoing/latest.zip",
     "IconUrl": "https://github.com/daemitus/SomethingNeedDoing/raw/master/res/icon.png",
@@ -88,8 +89,10 @@
     "InternalName": "SomethingNeedDoing a1hena custom",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1668174052,
+    "LastUpdated": 1673542121,
     "LoadPriority": 0,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
     "Name": "Something Need Doing a1hena custom",
     "Punchline": "Work work.",
     "RepoUrl": "https://github.com/a1hena/SomethingNeedDoing"
