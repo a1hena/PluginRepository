@@ -2,7 +2,7 @@
   "Author": "ocealot",
   "Name": "JobBars",
   "InternalName": "JobBars",
-  "AssemblyVersion": "1.2.3.3",
+  "AssemblyVersion": "1.2.3.6",
   "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/0ceal0t/JobBars",
@@ -11,6 +11,9 @@
     "Bars"
   ],
   "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "Extra job gauges"
+  "Punchline": "Extra job gauges",
+  "AcceptsFeedback": true
 }

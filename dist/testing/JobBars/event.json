@@ -1,8 +1,188 @@
 {
-  "after": "7d03f1c67af9ac379e0f650c92c8ba78aef1f636",
+  "after": "23d13ae6f994942774c81f8aa82013ee50259e1f",
   "base_ref": null,
-  "before": "9cf705de614406650eaf069676c713eb3522dd99",
+  "before": "7d03f1c67af9ac379e0f650c92c8ba78aef1f636",
   "commits": [
+    {
+      "author": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "committer": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "distinct": true,
+      "id": "dc89298749aee5fd05ee9cb024ab367052913f6d",
+      "message": "1.2.3.2",
+      "timestamp": "2023-01-14T15:17:16-05:00",
+      "tree_id": "7dd2cd6e9af6b6d5277c31ac2fd86af4486d8487",
+      "url": "https://github.com/a1hena/JobBars/commit/dc89298749aee5fd05ee9cb024ab367052913f6d"
+    },
+    {
+      "author": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "committer": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "distinct": true,
+      "id": "895717869274cf78183347f5488583e2de10d2cf",
+      "message": "add max gcds option",
+      "timestamp": "2023-01-15T14:59:59-05:00",
+      "tree_id": "93ee5ebcfd080c77cefce83450e1345691314617",
+      "url": "https://github.com/a1hena/JobBars/commit/895717869274cf78183347f5488583e2de10d2cf"
+    },
+    {
+      "author": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "committer": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "distinct": true,
+      "id": "c269978471b9910c04e2501229790df163a7cea1",
+      "message": "v.1.2.3.3",
+      "timestamp": "2023-01-15T15:00:19-05:00",
+      "tree_id": "3411a2ee738571c526aa9f81eee8afd9fe5db740",
+      "url": "https://github.com/a1hena/JobBars/commit/c269978471b9910c04e2501229790df163a7cea1"
+    },
+    {
+      "author": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "committer": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "distinct": true,
+      "id": "6c9c6818f0f266c13e07cdfe13743e2d2e7e632c",
+      "message": "fix living shadow duration",
+      "timestamp": "2023-01-18T23:33:23-05:00",
+      "tree_id": "9eef176f1fcfac1833a2c1ffcd2ba065b41f2797",
+      "url": "https://github.com/a1hena/JobBars/commit/6c9c6818f0f266c13e07cdfe13743e2d2e7e632c"
+    },
+    {
+      "author": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "committer": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "distinct": true,
+      "id": "4404300e6f1b800cdd6782c17a3df20a91e847e5",
+      "message": "fix issue with icons being affected even when not enabled",
+      "timestamp": "2023-01-18T23:50:43-05:00",
+      "tree_id": "8335013c4c7997c39fc6c42f00c16b5f31d7eefe",
+      "url": "https://github.com/a1hena/JobBars/commit/4404300e6f1b800cdd6782c17a3df20a91e847e5"
+    },
+    {
+      "author": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "committer": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "distinct": true,
+      "id": "ec2de380083edecc0b6f5bf9479d5c943511dcae",
+      "message": "v1.2.3.4",
+      "timestamp": "2023-01-22T18:39:30-05:00",
+      "tree_id": "b82c16a8a6d8e17e33d793240742c2a4b85945bb",
+      "url": "https://github.com/a1hena/JobBars/commit/ec2de380083edecc0b6f5bf9479d5c943511dcae"
+    },
+    {
+      "author": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "committer": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "distinct": true,
+      "id": "3cf912f96a34e1c4d28c24771630981662e1c893",
+      "message": "1.2.3.5 + remove custom CS",
+      "timestamp": "2023-01-30T21:45:36-05:00",
+      "tree_id": "47e8ea2cb2e6af81f1781bc35ef9e66bd64ec1d4",
+      "url": "https://github.com/a1hena/JobBars/commit/3cf912f96a34e1c4d28c24771630981662e1c893"
+    },
+    {
+      "author": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "committer": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "distinct": true,
+      "id": "dfd91e72a34322a33e89a247d9f711687a5ee2d5",
+      "message": "update for 6.4",
+      "timestamp": "2023-05-25T21:38:59-04:00",
+      "tree_id": "1830819d522ad5775c9cef4118caf028c7122da3",
+      "url": "https://github.com/a1hena/JobBars/commit/dfd91e72a34322a33e89a247d9f711687a5ee2d5"
+    },
+    {
+      "author": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "committer": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "distinct": true,
+      "id": "e436549d4d625e34d3801ab8cbce99de8fc686f7",
+      "message": "v1.2.3.6",
+      "timestamp": "2023-05-25T21:40:42-04:00",
+      "tree_id": "e3062ee5a96a0c8c895b9bf3d9ec6a70513c9130",
+      "url": "https://github.com/a1hena/JobBars/commit/e436549d4d625e34d3801ab8cbce99de8fc686f7"
+    },
+    {
+      "author": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "committer": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "distinct": true,
+      "id": "9e07da7ff4942fae1021be6e950be0abd2741564",
+      "message": "support bottom-aligned partylist",
+      "timestamp": "2023-05-28T22:37:30-04:00",
+      "tree_id": "bd320bdb57dd8312286e3f9f3cc942c06e957ad9",
+      "url": "https://github.com/a1hena/JobBars/commit/9e07da7ff4942fae1021be6e950be0abd2741564"
+    },
     {
       "author": {
         "email": "102157679+a1hena@users.noreply.github.com",
@@ -15,17 +195,17 @@
         "username": "a1hena"
       },
       "distinct": true,
-      "id": "7d03f1c67af9ac379e0f650c92c8ba78aef1f636",
-      "message": "[WIP] .NET7.0",
-      "timestamp": "2023-01-13T02:07:49+09:00",
-      "tree_id": "6d1bf456d8a2bb4878a6414a233cf9fbec5a5c83",
-      "url": "https://github.com/a1hena/JobBars/commit/7d03f1c67af9ac379e0f650c92c8ba78aef1f636"
+      "id": "23d13ae6f994942774c81f8aa82013ee50259e1f",
+      "message": "Merge branch main of https://github.com/0ceal0t/JobBars",
+      "timestamp": "2023-06-01T18:04:40+09:00",
+      "tree_id": "4723a05c98543eac42ea40b5e368d19dfb5d512b",
+      "url": "https://github.com/a1hena/JobBars/commit/23d13ae6f994942774c81f8aa82013ee50259e1f"
     }
   ],
-  "compare": "https://github.com/a1hena/JobBars/compare/9cf705de6144...7d03f1c67af9",
+  "compare": "https://github.com/a1hena/JobBars/compare/7d03f1c67af9...23d13ae6f994",
   "created": false,
   "deleted": false,
-  "forced": true,
+  "forced": false,
   "head_commit": {
     "author": {
       "email": "102157679+a1hena@users.noreply.github.com",
@@ -38,11 +218,11 @@
       "username": "a1hena"
     },
     "distinct": true,
-    "id": "7d03f1c67af9ac379e0f650c92c8ba78aef1f636",
-    "message": "[WIP] .NET7.0",
-    "timestamp": "2023-01-13T02:07:49+09:00",
-    "tree_id": "6d1bf456d8a2bb4878a6414a233cf9fbec5a5c83",
-    "url": "https://github.com/a1hena/JobBars/commit/7d03f1c67af9ac379e0f650c92c8ba78aef1f636"
+    "id": "23d13ae6f994942774c81f8aa82013ee50259e1f",
+    "message": "Merge branch main of https://github.com/0ceal0t/JobBars",
+    "timestamp": "2023-06-01T18:04:40+09:00",
+    "tree_id": "4723a05c98543eac42ea40b5e368d19dfb5d512b",
+    "url": "https://github.com/a1hena/JobBars/commit/23d13ae6f994942774c81f8aa82013ee50259e1f"
   },
   "pusher": {
     "email": "102157679+a1hena@users.noreply.github.com",
@@ -137,9 +317,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/a1hena/JobBars/pulls{/number}",
-    "pushed_at": 1673543279,
+    "pushed_at": 1685610518,
     "releases_url": "https://api.github.com/repos/a1hena/JobBars/releases{/id}",
-    "size": 2436,
+    "size": 2970,
     "ssh_url": "git@github.com:a1hena/JobBars.git",
     "stargazers": 0,
     "stargazers_count": 0,
