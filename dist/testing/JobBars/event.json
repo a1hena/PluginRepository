@@ -1,262 +1,10 @@
 {
-  "after": "76bea4ca5afbdb1967240c19392a82e2c2c80180",
+  "after": "2ee5ad787a95a48f214933a1d968b889721394df",
   "base_ref": null,
-  "before": "23d13ae6f994942774c81f8aa82013ee50259e1f",
+  "before": "76bea4ca5afbdb1967240c19392a82e2c2c80180",
   "commits": [
     {
       "author": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "committer": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "distinct": true,
-      "id": "1bf1447f82de871dda74398cb550bcd86d5f5a8e",
-      "message": "v1.2.3.7",
-      "timestamp": "2023-06-03T10:40:27-04:00",
-      "tree_id": "1e1f0a95902c555e46dd05bdd7cb3b6d853d4e12",
-      "url": "https://github.com/a1hena/JobBars/commit/1bf1447f82de871dda74398cb550bcd86d5f5a8e"
-    },
-    {
-      "author": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "committer": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "distinct": true,
-      "id": "1d6207a78fd2ab9f265976bed587929359c701f9",
-      "message": "hopefully fix crashing",
-      "timestamp": "2023-07-24T11:43:13-04:00",
-      "tree_id": "70fd8fc11632d5a557cd5fa256a0f94d2adba7b9",
-      "url": "https://github.com/a1hena/JobBars/commit/1d6207a78fd2ab9f265976bed587929359c701f9"
-    },
-    {
-      "author": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "committer": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "distinct": true,
-      "id": "0440468ce9f37516b263dfed71e73aaab213dc54",
-      "message": "v1.2.3.8",
-      "timestamp": "2023-07-24T12:26:27-04:00",
-      "tree_id": "dac3502e167fb287aca1446887faee1512e61595",
-      "url": "https://github.com/a1hena/JobBars/commit/0440468ce9f37516b263dfed71e73aaab213dc54"
-    },
-    {
-      "author": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "committer": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "distinct": true,
-      "id": "a050aee125aef9b9b110e26fee6ac27f445d985a",
-      "message": "v1.2.4.0 + api9",
-      "timestamp": "2023-10-04T15:34:13-04:00",
-      "tree_id": "ae14bd9b117d6ae147687eb218a77c8a7a431de7",
-      "url": "https://github.com/a1hena/JobBars/commit/a050aee125aef9b9b110e26fee6ac27f445d985a"
-    },
-    {
-      "author": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "committer": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "distinct": true,
-      "id": "1950d45f5edee18082d49f43e3e33fc49206c52d",
-      "message": "clean up node flags",
-      "timestamp": "2023-10-04T18:43:59-04:00",
-      "tree_id": "52761e41d8a4ca83180479fe60ff664391786d03",
-      "url": "https://github.com/a1hena/JobBars/commit/1950d45f5edee18082d49f43e3e33fc49206c52d"
-    },
-    {
-      "author": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "committer": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "distinct": true,
-      "id": "8fffd728a5ed0fa5322bf499562a96588d98bb5d",
-      "message": "fix issue with crash when party list changed",
-      "timestamp": "2023-10-05T00:28:48-04:00",
-      "tree_id": "65d736750afac65700b585d45f893d3d94801c6c",
-      "url": "https://github.com/a1hena/JobBars/commit/8fffd728a5ed0fa5322bf499562a96588d98bb5d"
-    },
-    {
-      "author": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "committer": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "distinct": true,
-      "id": "a647438c819eb80ad807a9d438023914b25500af",
-      "message": "v1.2.4.1",
-      "timestamp": "2023-10-05T11:30:02-04:00",
-      "tree_id": "13d4b0e8fb83f5cdb07cb65e4a06c021cd366f53",
-      "url": "https://github.com/a1hena/JobBars/commit/a647438c819eb80ad807a9d438023914b25500af"
-    },
-    {
-      "author": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "committer": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "distinct": true,
-      "id": "b9088604799f6d5e460fc87699f10cacea087056",
-      "message": "rename error logging",
-      "timestamp": "2023-10-05T14:11:16-04:00",
-      "tree_id": "9ed26f097ed7ce5f51277a40f8bd2244d2d62a88",
-      "url": "https://github.com/a1hena/JobBars/commit/b9088604799f6d5e460fc87699f10cacea087056"
-    },
-    {
-      "author": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "committer": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "distinct": true,
-      "id": "90bc840ccedc002e67f18cb1e58af91a41ef656c",
-      "message": "fix bug with custom cooldowns with same name",
-      "timestamp": "2023-10-07T11:45:44-04:00",
-      "tree_id": "2f65a166b4bc355a3bc8c29917e75e7a7fff1722",
-      "url": "https://github.com/a1hena/JobBars/commit/90bc840ccedc002e67f18cb1e58af91a41ef656c"
-    },
-    {
-      "author": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "committer": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "distinct": true,
-      "id": "a2f6a511a75d6669960d16362ec2c5c9037931ca",
-      "message": "JobBars v1.2.4.2",
-      "timestamp": "2023-10-09T23:38:34-04:00",
-      "tree_id": "a8f3cddffb2ff06b5dcdbe02fa5db55f338bcf3a",
-      "url": "https://github.com/a1hena/JobBars/commit/a2f6a511a75d6669960d16362ec2c5c9037931ca"
-    },
-    {
-      "author": {
-        "email": "dicksonwong@gmail.com",
-        "name": "Dickson Wong",
-        "username": "diwo"
-      },
-      "committer": {
-        "email": "dicksonwong@gmail.com",
-        "name": "Dickson Wong",
-        "username": "diwo"
-      },
-      "distinct": true,
-      "id": "b5eae03871977f069147a6e4e070ba68f9ea96cb",
-      "message": "Icon replacements for AST divination",
-      "timestamp": "2023-10-15T22:40:26-07:00",
-      "tree_id": "32601cd6f3d86753fba10e713cd9b0bac716a2aa",
-      "url": "https://github.com/a1hena/JobBars/commit/b5eae03871977f069147a6e4e070ba68f9ea96cb"
-    },
-    {
-      "author": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "committer": {
-        "email": "noreply@github.com",
-        "name": "GitHub",
-        "username": "web-flow"
-      },
-      "distinct": true,
-      "id": "46dc3df32fa3c7f57824dcf3276d40f5511d1c31",
-      "message": "Merge pull request #204 from diwo/ast-divination-icon\n\nIcon replacements for AST divination",
-      "timestamp": "2023-10-17T12:16:17-04:00",
-      "tree_id": "32601cd6f3d86753fba10e713cd9b0bac716a2aa",
-      "url": "https://github.com/a1hena/JobBars/commit/46dc3df32fa3c7f57824dcf3276d40f5511d1c31"
-    },
-    {
-      "author": {
-        "email": "dicksonwong@gmail.com",
-        "name": "Dickson Wong",
-        "username": "diwo"
-      },
-      "committer": {
-        "email": "dicksonwong@gmail.com",
-        "name": "Dickson Wong",
-        "username": "diwo"
-      },
-      "distinct": true,
-      "id": "b92562184e05945133a4572b5e3a648ca35236d9",
-      "message": "Icon replacements for tank mitigations",
-      "timestamp": "2023-10-17T11:13:55-07:00",
-      "tree_id": "46dc3faf46f0fa4888a95e242c3c1b56afc4d096",
-      "url": "https://github.com/a1hena/JobBars/commit/b92562184e05945133a4572b5e3a648ca35236d9"
-    },
-    {
-      "author": {
-        "email": "kaminsky.michael@outlook.com",
-        "name": "ocealot",
-        "username": "0ceal0t"
-      },
-      "committer": {
-        "email": "noreply@github.com",
-        "name": "GitHub",
-        "username": "web-flow"
-      },
-      "distinct": true,
-      "id": "454dc1f27d31c9508407d79f62dc30cabddb4268",
-      "message": "Merge pull request #203 from diwo/tank-mit-icons\n\nIcon replacements for tank mitigations",
-      "timestamp": "2023-10-17T15:50:22-04:00",
-      "tree_id": "46dc3faf46f0fa4888a95e242c3c1b56afc4d096",
-      "url": "https://github.com/a1hena/JobBars/commit/454dc1f27d31c9508407d79f62dc30cabddb4268"
-    },
-    {
-      "author": {
         "email": "102157679+a1hena@users.noreply.github.com",
         "name": "a1hena",
         "username": "a1hena"
@@ -267,32 +15,14 @@
         "username": "a1hena"
       },
       "distinct": true,
-      "id": "ea4746bce2953f92d77f4f3ba43598ab479dbd40",
-      "message": "Merge remote-tracking branch upstream/main",
-      "timestamp": "2024-01-31T04:01:44+09:00",
-      "tree_id": "2e421829e2987a8984496167cc106343ec4114cc",
-      "url": "https://github.com/a1hena/JobBars/commit/ea4746bce2953f92d77f4f3ba43598ab479dbd40"
-    },
-    {
-      "author": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "committer": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "distinct": true,
-      "id": "76bea4ca5afbdb1967240c19392a82e2c2c80180",
-      "message": "Update WHM.cs",
-      "timestamp": "2024-01-31T04:13:19+09:00",
-      "tree_id": "57ddbdf240e79e728073f8284d005d03e85c9d38",
-      "url": "https://github.com/a1hena/JobBars/commit/76bea4ca5afbdb1967240c19392a82e2c2c80180"
+      "id": "2ee5ad787a95a48f214933a1d968b889721394df",
+      "message": "fix",
+      "timestamp": "2024-01-31T04:33:09+09:00",
+      "tree_id": "4418a0ec118a3238c1f523b54b7c4cf1b7471420",
+      "url": "https://github.com/a1hena/JobBars/commit/2ee5ad787a95a48f214933a1d968b889721394df"
     }
   ],
-  "compare": "https://github.com/a1hena/JobBars/compare/23d13ae6f994...76bea4ca5afb",
+  "compare": "https://github.com/a1hena/JobBars/compare/76bea4ca5afb...2ee5ad787a95",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -308,11 +38,11 @@
       "username": "a1hena"
     },
     "distinct": true,
-    "id": "76bea4ca5afbdb1967240c19392a82e2c2c80180",
-    "message": "Update WHM.cs",
-    "timestamp": "2024-01-31T04:13:19+09:00",
-    "tree_id": "57ddbdf240e79e728073f8284d005d03e85c9d38",
-    "url": "https://github.com/a1hena/JobBars/commit/76bea4ca5afbdb1967240c19392a82e2c2c80180"
+    "id": "2ee5ad787a95a48f214933a1d968b889721394df",
+    "message": "fix",
+    "timestamp": "2024-01-31T04:33:09+09:00",
+    "tree_id": "4418a0ec118a3238c1f523b54b7c4cf1b7471420",
+    "url": "https://github.com/a1hena/JobBars/commit/2ee5ad787a95a48f214933a1d968b889721394df"
   },
   "pusher": {
     "email": "102157679+a1hena@users.noreply.github.com",
@@ -407,7 +137,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/a1hena/JobBars/pulls{/number}",
-    "pushed_at": 1706642004,
+    "pushed_at": 1706643193,
     "releases_url": "https://api.github.com/repos/a1hena/JobBars/releases{/id}",
     "size": 4049,
     "ssh_url": "git@github.com:a1hena/JobBars.git",
