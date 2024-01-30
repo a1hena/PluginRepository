@@ -1,7 +1,7 @@
 {
-  "after": "23d13ae6f994942774c81f8aa82013ee50259e1f",
+  "after": "76bea4ca5afbdb1967240c19392a82e2c2c80180",
   "base_ref": null,
-  "before": "7d03f1c67af9ac379e0f650c92c8ba78aef1f636",
+  "before": "23d13ae6f994942774c81f8aa82013ee50259e1f",
   "commits": [
     {
       "author": {
@@ -15,11 +15,11 @@
         "username": "0ceal0t"
       },
       "distinct": true,
-      "id": "dc89298749aee5fd05ee9cb024ab367052913f6d",
-      "message": "1.2.3.2",
-      "timestamp": "2023-01-14T15:17:16-05:00",
-      "tree_id": "7dd2cd6e9af6b6d5277c31ac2fd86af4486d8487",
-      "url": "https://github.com/a1hena/JobBars/commit/dc89298749aee5fd05ee9cb024ab367052913f6d"
+      "id": "1bf1447f82de871dda74398cb550bcd86d5f5a8e",
+      "message": "v1.2.3.7",
+      "timestamp": "2023-06-03T10:40:27-04:00",
+      "tree_id": "1e1f0a95902c555e46dd05bdd7cb3b6d853d4e12",
+      "url": "https://github.com/a1hena/JobBars/commit/1bf1447f82de871dda74398cb550bcd86d5f5a8e"
     },
     {
       "author": {
@@ -33,11 +33,11 @@
         "username": "0ceal0t"
       },
       "distinct": true,
-      "id": "895717869274cf78183347f5488583e2de10d2cf",
-      "message": "add max gcds option",
-      "timestamp": "2023-01-15T14:59:59-05:00",
-      "tree_id": "93ee5ebcfd080c77cefce83450e1345691314617",
-      "url": "https://github.com/a1hena/JobBars/commit/895717869274cf78183347f5488583e2de10d2cf"
+      "id": "1d6207a78fd2ab9f265976bed587929359c701f9",
+      "message": "hopefully fix crashing",
+      "timestamp": "2023-07-24T11:43:13-04:00",
+      "tree_id": "70fd8fc11632d5a557cd5fa256a0f94d2adba7b9",
+      "url": "https://github.com/a1hena/JobBars/commit/1d6207a78fd2ab9f265976bed587929359c701f9"
     },
     {
       "author": {
@@ -51,11 +51,11 @@
         "username": "0ceal0t"
       },
       "distinct": true,
-      "id": "c269978471b9910c04e2501229790df163a7cea1",
-      "message": "v.1.2.3.3",
-      "timestamp": "2023-01-15T15:00:19-05:00",
-      "tree_id": "3411a2ee738571c526aa9f81eee8afd9fe5db740",
-      "url": "https://github.com/a1hena/JobBars/commit/c269978471b9910c04e2501229790df163a7cea1"
+      "id": "0440468ce9f37516b263dfed71e73aaab213dc54",
+      "message": "v1.2.3.8",
+      "timestamp": "2023-07-24T12:26:27-04:00",
+      "tree_id": "dac3502e167fb287aca1446887faee1512e61595",
+      "url": "https://github.com/a1hena/JobBars/commit/0440468ce9f37516b263dfed71e73aaab213dc54"
     },
     {
       "author": {
@@ -69,11 +69,11 @@
         "username": "0ceal0t"
       },
       "distinct": true,
-      "id": "6c9c6818f0f266c13e07cdfe13743e2d2e7e632c",
-      "message": "fix living shadow duration",
-      "timestamp": "2023-01-18T23:33:23-05:00",
-      "tree_id": "9eef176f1fcfac1833a2c1ffcd2ba065b41f2797",
-      "url": "https://github.com/a1hena/JobBars/commit/6c9c6818f0f266c13e07cdfe13743e2d2e7e632c"
+      "id": "a050aee125aef9b9b110e26fee6ac27f445d985a",
+      "message": "v1.2.4.0 + api9",
+      "timestamp": "2023-10-04T15:34:13-04:00",
+      "tree_id": "ae14bd9b117d6ae147687eb218a77c8a7a431de7",
+      "url": "https://github.com/a1hena/JobBars/commit/a050aee125aef9b9b110e26fee6ac27f445d985a"
     },
     {
       "author": {
@@ -87,11 +87,11 @@
         "username": "0ceal0t"
       },
       "distinct": true,
-      "id": "4404300e6f1b800cdd6782c17a3df20a91e847e5",
-      "message": "fix issue with icons being affected even when not enabled",
-      "timestamp": "2023-01-18T23:50:43-05:00",
-      "tree_id": "8335013c4c7997c39fc6c42f00c16b5f31d7eefe",
-      "url": "https://github.com/a1hena/JobBars/commit/4404300e6f1b800cdd6782c17a3df20a91e847e5"
+      "id": "1950d45f5edee18082d49f43e3e33fc49206c52d",
+      "message": "clean up node flags",
+      "timestamp": "2023-10-04T18:43:59-04:00",
+      "tree_id": "52761e41d8a4ca83180479fe60ff664391786d03",
+      "url": "https://github.com/a1hena/JobBars/commit/1950d45f5edee18082d49f43e3e33fc49206c52d"
     },
     {
       "author": {
@@ -105,11 +105,11 @@
         "username": "0ceal0t"
       },
       "distinct": true,
-      "id": "ec2de380083edecc0b6f5bf9479d5c943511dcae",
-      "message": "v1.2.3.4",
-      "timestamp": "2023-01-22T18:39:30-05:00",
-      "tree_id": "b82c16a8a6d8e17e33d793240742c2a4b85945bb",
-      "url": "https://github.com/a1hena/JobBars/commit/ec2de380083edecc0b6f5bf9479d5c943511dcae"
+      "id": "8fffd728a5ed0fa5322bf499562a96588d98bb5d",
+      "message": "fix issue with crash when party list changed",
+      "timestamp": "2023-10-05T00:28:48-04:00",
+      "tree_id": "65d736750afac65700b585d45f893d3d94801c6c",
+      "url": "https://github.com/a1hena/JobBars/commit/8fffd728a5ed0fa5322bf499562a96588d98bb5d"
     },
     {
       "author": {
@@ -123,11 +123,11 @@
         "username": "0ceal0t"
       },
       "distinct": true,
-      "id": "3cf912f96a34e1c4d28c24771630981662e1c893",
-      "message": "1.2.3.5 + remove custom CS",
-      "timestamp": "2023-01-30T21:45:36-05:00",
-      "tree_id": "47e8ea2cb2e6af81f1781bc35ef9e66bd64ec1d4",
-      "url": "https://github.com/a1hena/JobBars/commit/3cf912f96a34e1c4d28c24771630981662e1c893"
+      "id": "a647438c819eb80ad807a9d438023914b25500af",
+      "message": "v1.2.4.1",
+      "timestamp": "2023-10-05T11:30:02-04:00",
+      "tree_id": "13d4b0e8fb83f5cdb07cb65e4a06c021cd366f53",
+      "url": "https://github.com/a1hena/JobBars/commit/a647438c819eb80ad807a9d438023914b25500af"
     },
     {
       "author": {
@@ -141,11 +141,11 @@
         "username": "0ceal0t"
       },
       "distinct": true,
-      "id": "dfd91e72a34322a33e89a247d9f711687a5ee2d5",
-      "message": "update for 6.4",
-      "timestamp": "2023-05-25T21:38:59-04:00",
-      "tree_id": "1830819d522ad5775c9cef4118caf028c7122da3",
-      "url": "https://github.com/a1hena/JobBars/commit/dfd91e72a34322a33e89a247d9f711687a5ee2d5"
+      "id": "b9088604799f6d5e460fc87699f10cacea087056",
+      "message": "rename error logging",
+      "timestamp": "2023-10-05T14:11:16-04:00",
+      "tree_id": "9ed26f097ed7ce5f51277a40f8bd2244d2d62a88",
+      "url": "https://github.com/a1hena/JobBars/commit/b9088604799f6d5e460fc87699f10cacea087056"
     },
     {
       "author": {
@@ -159,11 +159,11 @@
         "username": "0ceal0t"
       },
       "distinct": true,
-      "id": "e436549d4d625e34d3801ab8cbce99de8fc686f7",
-      "message": "v1.2.3.6",
-      "timestamp": "2023-05-25T21:40:42-04:00",
-      "tree_id": "e3062ee5a96a0c8c895b9bf3d9ec6a70513c9130",
-      "url": "https://github.com/a1hena/JobBars/commit/e436549d4d625e34d3801ab8cbce99de8fc686f7"
+      "id": "90bc840ccedc002e67f18cb1e58af91a41ef656c",
+      "message": "fix bug with custom cooldowns with same name",
+      "timestamp": "2023-10-07T11:45:44-04:00",
+      "tree_id": "2f65a166b4bc355a3bc8c29917e75e7a7fff1722",
+      "url": "https://github.com/a1hena/JobBars/commit/90bc840ccedc002e67f18cb1e58af91a41ef656c"
     },
     {
       "author": {
@@ -177,11 +177,83 @@
         "username": "0ceal0t"
       },
       "distinct": true,
-      "id": "9e07da7ff4942fae1021be6e950be0abd2741564",
-      "message": "support bottom-aligned partylist",
-      "timestamp": "2023-05-28T22:37:30-04:00",
-      "tree_id": "bd320bdb57dd8312286e3f9f3cc942c06e957ad9",
-      "url": "https://github.com/a1hena/JobBars/commit/9e07da7ff4942fae1021be6e950be0abd2741564"
+      "id": "a2f6a511a75d6669960d16362ec2c5c9037931ca",
+      "message": "JobBars v1.2.4.2",
+      "timestamp": "2023-10-09T23:38:34-04:00",
+      "tree_id": "a8f3cddffb2ff06b5dcdbe02fa5db55f338bcf3a",
+      "url": "https://github.com/a1hena/JobBars/commit/a2f6a511a75d6669960d16362ec2c5c9037931ca"
+    },
+    {
+      "author": {
+        "email": "dicksonwong@gmail.com",
+        "name": "Dickson Wong",
+        "username": "diwo"
+      },
+      "committer": {
+        "email": "dicksonwong@gmail.com",
+        "name": "Dickson Wong",
+        "username": "diwo"
+      },
+      "distinct": true,
+      "id": "b5eae03871977f069147a6e4e070ba68f9ea96cb",
+      "message": "Icon replacements for AST divination",
+      "timestamp": "2023-10-15T22:40:26-07:00",
+      "tree_id": "32601cd6f3d86753fba10e713cd9b0bac716a2aa",
+      "url": "https://github.com/a1hena/JobBars/commit/b5eae03871977f069147a6e4e070ba68f9ea96cb"
+    },
+    {
+      "author": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "committer": {
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
+      },
+      "distinct": true,
+      "id": "46dc3df32fa3c7f57824dcf3276d40f5511d1c31",
+      "message": "Merge pull request #204 from diwo/ast-divination-icon\n\nIcon replacements for AST divination",
+      "timestamp": "2023-10-17T12:16:17-04:00",
+      "tree_id": "32601cd6f3d86753fba10e713cd9b0bac716a2aa",
+      "url": "https://github.com/a1hena/JobBars/commit/46dc3df32fa3c7f57824dcf3276d40f5511d1c31"
+    },
+    {
+      "author": {
+        "email": "dicksonwong@gmail.com",
+        "name": "Dickson Wong",
+        "username": "diwo"
+      },
+      "committer": {
+        "email": "dicksonwong@gmail.com",
+        "name": "Dickson Wong",
+        "username": "diwo"
+      },
+      "distinct": true,
+      "id": "b92562184e05945133a4572b5e3a648ca35236d9",
+      "message": "Icon replacements for tank mitigations",
+      "timestamp": "2023-10-17T11:13:55-07:00",
+      "tree_id": "46dc3faf46f0fa4888a95e242c3c1b56afc4d096",
+      "url": "https://github.com/a1hena/JobBars/commit/b92562184e05945133a4572b5e3a648ca35236d9"
+    },
+    {
+      "author": {
+        "email": "kaminsky.michael@outlook.com",
+        "name": "ocealot",
+        "username": "0ceal0t"
+      },
+      "committer": {
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
+      },
+      "distinct": true,
+      "id": "454dc1f27d31c9508407d79f62dc30cabddb4268",
+      "message": "Merge pull request #203 from diwo/tank-mit-icons\n\nIcon replacements for tank mitigations",
+      "timestamp": "2023-10-17T15:50:22-04:00",
+      "tree_id": "46dc3faf46f0fa4888a95e242c3c1b56afc4d096",
+      "url": "https://github.com/a1hena/JobBars/commit/454dc1f27d31c9508407d79f62dc30cabddb4268"
     },
     {
       "author": {
@@ -195,14 +267,32 @@
         "username": "a1hena"
       },
       "distinct": true,
-      "id": "23d13ae6f994942774c81f8aa82013ee50259e1f",
-      "message": "Merge branch main of https://github.com/0ceal0t/JobBars",
-      "timestamp": "2023-06-01T18:04:40+09:00",
-      "tree_id": "4723a05c98543eac42ea40b5e368d19dfb5d512b",
-      "url": "https://github.com/a1hena/JobBars/commit/23d13ae6f994942774c81f8aa82013ee50259e1f"
+      "id": "ea4746bce2953f92d77f4f3ba43598ab479dbd40",
+      "message": "Merge remote-tracking branch upstream/main",
+      "timestamp": "2024-01-31T04:01:44+09:00",
+      "tree_id": "2e421829e2987a8984496167cc106343ec4114cc",
+      "url": "https://github.com/a1hena/JobBars/commit/ea4746bce2953f92d77f4f3ba43598ab479dbd40"
+    },
+    {
+      "author": {
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "name": "a1hena",
+        "username": "a1hena"
+      },
+      "committer": {
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "name": "a1hena",
+        "username": "a1hena"
+      },
+      "distinct": true,
+      "id": "76bea4ca5afbdb1967240c19392a82e2c2c80180",
+      "message": "Update WHM.cs",
+      "timestamp": "2024-01-31T04:13:19+09:00",
+      "tree_id": "57ddbdf240e79e728073f8284d005d03e85c9d38",
+      "url": "https://github.com/a1hena/JobBars/commit/76bea4ca5afbdb1967240c19392a82e2c2c80180"
     }
   ],
-  "compare": "https://github.com/a1hena/JobBars/compare/7d03f1c67af9...23d13ae6f994",
+  "compare": "https://github.com/a1hena/JobBars/compare/23d13ae6f994...76bea4ca5afb",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -218,11 +308,11 @@
       "username": "a1hena"
     },
     "distinct": true,
-    "id": "23d13ae6f994942774c81f8aa82013ee50259e1f",
-    "message": "Merge branch main of https://github.com/0ceal0t/JobBars",
-    "timestamp": "2023-06-01T18:04:40+09:00",
-    "tree_id": "4723a05c98543eac42ea40b5e368d19dfb5d512b",
-    "url": "https://github.com/a1hena/JobBars/commit/23d13ae6f994942774c81f8aa82013ee50259e1f"
+    "id": "76bea4ca5afbdb1967240c19392a82e2c2c80180",
+    "message": "Update WHM.cs",
+    "timestamp": "2024-01-31T04:13:19+09:00",
+    "tree_id": "57ddbdf240e79e728073f8284d005d03e85c9d38",
+    "url": "https://github.com/a1hena/JobBars/commit/76bea4ca5afbdb1967240c19392a82e2c2c80180"
   },
   "pusher": {
     "email": "102157679+a1hena@users.noreply.github.com",
@@ -317,9 +407,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/a1hena/JobBars/pulls{/number}",
-    "pushed_at": 1685610518,
+    "pushed_at": 1706642004,
     "releases_url": "https://api.github.com/repos/a1hena/JobBars/releases{/id}",
-    "size": 2970,
+    "size": 4049,
     "ssh_url": "git@github.com:a1hena/JobBars.git",
     "stargazers": 0,
     "stargazers_count": 0,
