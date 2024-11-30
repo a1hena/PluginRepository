@@ -1,7 +1,7 @@
 {
-  "after": "f621ed74e40435cdf3b1f946a73bef7e188c231c",
+  "after": "7a125b88d6d0c34a67f370dbf8369929555ced18",
   "base_ref": null,
-  "before": "a4fca0e11ed8dd1afd792bbc6832b2e0ccec98e3",
+  "before": "47ee563099248fe7e1e8454e1c851e995627e34e",
   "commits": [
     {
       "author": {
@@ -15,14 +15,32 @@
         "username": "a1hena"
       },
       "distinct": true,
-      "id": "f621ed74e40435cdf3b1f946a73bef7e188c231c",
+      "id": "05ff214e663069a6219a7aca62b93b562bd1e84d",
       "message": "add workflow",
-      "timestamp": "2024-07-07T20:37:41+09:00",
-      "tree_id": "b90d133cd4a0886ac7787b92a041c8a4ef47e207",
-      "url": "https://github.com/a1hena/JobBars/commit/f621ed74e40435cdf3b1f946a73bef7e188c231c"
+      "timestamp": "2024-11-30T14:59:23+09:00",
+      "tree_id": "a66e61948c211ee726f9e7c39266bffb0cccb9d2",
+      "url": "https://github.com/a1hena/JobBars/commit/05ff214e663069a6219a7aca62b93b562bd1e84d"
+    },
+    {
+      "author": {
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "name": "a1hena",
+        "username": "a1hena"
+      },
+      "committer": {
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "name": "a1hena",
+        "username": "a1hena"
+      },
+      "distinct": true,
+      "id": "7a125b88d6d0c34a67f370dbf8369929555ced18",
+      "message": "Optimize cooldown TimeLeft",
+      "timestamp": "2024-11-30T15:00:47+09:00",
+      "tree_id": "2ef6f6722f9f45827cb5550208bfaf0438b4fb75",
+      "url": "https://github.com/a1hena/JobBars/commit/7a125b88d6d0c34a67f370dbf8369929555ced18"
     }
   ],
-  "compare": "https://github.com/a1hena/JobBars/compare/a4fca0e11ed8...f621ed74e404",
+  "compare": "https://github.com/a1hena/JobBars/compare/47ee56309924...7a125b88d6d0",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +56,11 @@
       "username": "a1hena"
     },
     "distinct": true,
-    "id": "f621ed74e40435cdf3b1f946a73bef7e188c231c",
-    "message": "add workflow",
-    "timestamp": "2024-07-07T20:37:41+09:00",
-    "tree_id": "b90d133cd4a0886ac7787b92a041c8a4ef47e207",
-    "url": "https://github.com/a1hena/JobBars/commit/f621ed74e40435cdf3b1f946a73bef7e188c231c"
+    "id": "7a125b88d6d0c34a67f370dbf8369929555ced18",
+    "message": "Optimize cooldown TimeLeft",
+    "timestamp": "2024-11-30T15:00:47+09:00",
+    "tree_id": "2ef6f6722f9f45827cb5550208bfaf0438b4fb75",
+    "url": "https://github.com/a1hena/JobBars/commit/7a125b88d6d0c34a67f370dbf8369929555ced18"
   },
   "pusher": {
     "email": "102157679+a1hena@users.noreply.github.com",
@@ -133,13 +151,14 @@
       "starred_url": "https://api.github.com/users/a1hena/starred{/owner}{/repo}",
       "subscriptions_url": "https://api.github.com/users/a1hena/subscriptions",
       "type": "User",
-      "url": "https://api.github.com/users/a1hena"
+      "url": "https://api.github.com/users/a1hena",
+      "user_view_type": "public"
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/a1hena/JobBars/pulls{/number}",
-    "pushed_at": 1720352284,
+    "pushed_at": 1732946483,
     "releases_url": "https://api.github.com/repos/a1hena/JobBars/releases{/id}",
-    "size": 4494,
+    "size": 4522,
     "ssh_url": "git@github.com:a1hena/JobBars.git",
     "stargazers": 0,
     "stargazers_count": 0,
@@ -152,7 +171,7 @@
     "teams_url": "https://api.github.com/repos/a1hena/JobBars/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/a1hena/JobBars/git/trees{/sha}",
-    "updated_at": "2024-07-07T11:35:50Z",
+    "updated_at": "2024-11-30T05:58:29Z",
     "url": "https://github.com/a1hena/JobBars",
     "visibility": "public",
     "watchers": 0,
@@ -177,6 +196,7 @@
     "starred_url": "https://api.github.com/users/a1hena/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/a1hena/subscriptions",
     "type": "User",
-    "url": "https://api.github.com/users/a1hena"
+    "url": "https://api.github.com/users/a1hena",
+    "user_view_type": "public"
   }
 }
