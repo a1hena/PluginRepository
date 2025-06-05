@@ -21,7 +21,7 @@ jobs:
     concurrency: staging
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Restore mtime
         uses: chetan/git-restore-mtime-action@v1
