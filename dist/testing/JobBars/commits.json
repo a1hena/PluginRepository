@@ -1,5 +1,256 @@
 [
   {
+    "sha": "e1dbabb97b6d66abe33782b659b4891b094c5568",
+    "node_id": "C_kwDOHeA4lNoAKGUxZGJhYmI5N2I2ZDY2YWJlMzM3ODJiNjU5YjQ4OTFiMDk0YzU1Njg",
+    "commit": {
+      "author": {
+        "name": "a1hena",
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "date": "2025-04-07T17:31:55Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2025-04-07T17:31:55Z"
+      },
+      "message": "Merge branch '0ceal0t:main' into main",
+      "tree": {
+        "sha": "9ffab36531215ba1fbc7956f33ddd70f90e901e1",
+        "url": "https://api.github.com/repos/a1hena/JobBars/git/trees/9ffab36531215ba1fbc7956f33ddd70f90e901e1"
+      },
+      "url": "https://api.github.com/repos/a1hena/JobBars/git/commits/e1dbabb97b6d66abe33782b659b4891b094c5568",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJn9AwLCRC1aQ7uu5UhlAAATOQQAD+gqDaBZDd4wFZRsbFaOHO5\nMKy9g2TOj+iTAsrRmhPh3RC1EaxXkESL/cNSnKE0TWS+5FPMWz63wpC609c3cziS\nuPMAoCdeuZDwSTjFKD6ppi85liTRxe/mDuHCQ/X4agAHSEQcbgfuM2+mYJerkuCf\nHMZNUnCDkplTVruboDfU8gVeAy5FJ8XX7hCgz/VnSBlPbGCwIv0kDm/CxJk4lQ3S\nJQXhpW/YQOHnNSVXKHTip8A/NJ7PSyTPgN5/eaUJG3IMkjC+uSlNU2RuGMcCm6AT\nf/eiIxx0vXvXLPNuF95aFmrBDqE8ucmR4x/bSnR8YAe5AVq0vI8/bnK9VBc96y1A\nCjIFpZgg2NX9qtfmj7IrqvRuEaxof3CSF/qrLYjgZg2cHSUYNMtZ7MyENt47Hge3\nX2kOwqah+8XGSb7yBEn0EFDmpd/CvnSdhcC+AHpjk1hj2jnZtD91HjSr/5RopAiI\nN2Xl7tMx63G65rmDM7gstTDqNCezalx6hIcRyVzRaPV8d18sYmF0tTaAf84jvnMG\nUSaaZIKXYVJe5jU1tP50mngWegcfnNFEBuSP6fN15/J4SI34+yxzqEGrMk2oMtrh\njP4eXCmZkmoorr2aaRyWhIUxUo4CUzach3qOT5dmJN+ou2xOb506FQepS5+onDbW\n3WERNZg/zwsP9/S95hBx\n=9E2Q\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 9ffab36531215ba1fbc7956f33ddd70f90e901e1\nparent d3866363d1cf3cea12e96ec9e7a6f5cfff9484bd\nparent 6e25bffa2831a8b7b6dfb4ec0f02a3584c3e4df8\nauthor a1hena <102157679+a1hena@users.noreply.github.com> 1744047115 +0900\ncommitter GitHub <noreply@github.com> 1744047115 +0900\n\nMerge branch '0ceal0t:main' into main\n",
+        "verified_at": "2025-04-07T17:32:03Z"
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/JobBars/commits/e1dbabb97b6d66abe33782b659b4891b094c5568",
+    "html_url": "https://github.com/a1hena/JobBars/commit/e1dbabb97b6d66abe33782b659b4891b094c5568",
+    "comments_url": "https://api.github.com/repos/a1hena/JobBars/commits/e1dbabb97b6d66abe33782b659b4891b094c5568/comments",
+    "author": {
+      "login": "a1hena",
+      "id": 102157679,
+      "node_id": "U_kgDOBhbNbw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102157679?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/a1hena",
+      "html_url": "https://github.com/a1hena",
+      "followers_url": "https://api.github.com/users/a1hena/followers",
+      "following_url": "https://api.github.com/users/a1hena/following{/other_user}",
+      "gists_url": "https://api.github.com/users/a1hena/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/a1hena/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/a1hena/subscriptions",
+      "organizations_url": "https://api.github.com/users/a1hena/orgs",
+      "repos_url": "https://api.github.com/users/a1hena/repos",
+      "events_url": "https://api.github.com/users/a1hena/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/a1hena/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d3866363d1cf3cea12e96ec9e7a6f5cfff9484bd",
+        "url": "https://api.github.com/repos/a1hena/JobBars/commits/d3866363d1cf3cea12e96ec9e7a6f5cfff9484bd",
+        "html_url": "https://github.com/a1hena/JobBars/commit/d3866363d1cf3cea12e96ec9e7a6f5cfff9484bd"
+      },
+      {
+        "sha": "6e25bffa2831a8b7b6dfb4ec0f02a3584c3e4df8",
+        "url": "https://api.github.com/repos/a1hena/JobBars/commits/6e25bffa2831a8b7b6dfb4ec0f02a3584c3e4df8",
+        "html_url": "https://github.com/a1hena/JobBars/commit/6e25bffa2831a8b7b6dfb4ec0f02a3584c3e4df8"
+      }
+    ]
+  },
+  {
+    "sha": "6e25bffa2831a8b7b6dfb4ec0f02a3584c3e4df8",
+    "node_id": "C_kwDOHeA4lNoAKDZlMjViZmZhMjgzMWE4YjdiNmRmYjRlYzBmMDJhMzU4NGMzZTRkZjg",
+    "commit": {
+      "author": {
+        "name": "ocealot",
+        "email": "kaminsky.michael@outlook.com",
+        "date": "2025-03-29T00:10:41Z"
+      },
+      "committer": {
+        "name": "ocealot",
+        "email": "kaminsky.michael@outlook.com",
+        "date": "2025-03-29T00:10:41Z"
+      },
+      "message": "more 7.2 stuff",
+      "tree": {
+        "sha": "0a8a458ed408af216da56095108bcff02f634a66",
+        "url": "https://api.github.com/repos/a1hena/JobBars/git/trees/0a8a458ed408af216da56095108bcff02f634a66"
+      },
+      "url": "https://api.github.com/repos/a1hena/JobBars/git/commits/6e25bffa2831a8b7b6dfb4ec0f02a3584c3e4df8",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/JobBars/commits/6e25bffa2831a8b7b6dfb4ec0f02a3584c3e4df8",
+    "html_url": "https://github.com/a1hena/JobBars/commit/6e25bffa2831a8b7b6dfb4ec0f02a3584c3e4df8",
+    "comments_url": "https://api.github.com/repos/a1hena/JobBars/commits/6e25bffa2831a8b7b6dfb4ec0f02a3584c3e4df8/comments",
+    "author": {
+      "login": "0ceal0t",
+      "id": 18051158,
+      "node_id": "MDQ6VXNlcjE4MDUxMTU4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18051158?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/0ceal0t",
+      "html_url": "https://github.com/0ceal0t",
+      "followers_url": "https://api.github.com/users/0ceal0t/followers",
+      "following_url": "https://api.github.com/users/0ceal0t/following{/other_user}",
+      "gists_url": "https://api.github.com/users/0ceal0t/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/0ceal0t/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/0ceal0t/subscriptions",
+      "organizations_url": "https://api.github.com/users/0ceal0t/orgs",
+      "repos_url": "https://api.github.com/users/0ceal0t/repos",
+      "events_url": "https://api.github.com/users/0ceal0t/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/0ceal0t/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "0ceal0t",
+      "id": 18051158,
+      "node_id": "MDQ6VXNlcjE4MDUxMTU4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18051158?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/0ceal0t",
+      "html_url": "https://github.com/0ceal0t",
+      "followers_url": "https://api.github.com/users/0ceal0t/followers",
+      "following_url": "https://api.github.com/users/0ceal0t/following{/other_user}",
+      "gists_url": "https://api.github.com/users/0ceal0t/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/0ceal0t/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/0ceal0t/subscriptions",
+      "organizations_url": "https://api.github.com/users/0ceal0t/orgs",
+      "repos_url": "https://api.github.com/users/0ceal0t/repos",
+      "events_url": "https://api.github.com/users/0ceal0t/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/0ceal0t/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "71a8ebdcccd1b9372c5ba5a065c67b6dbe5416dc",
+        "url": "https://api.github.com/repos/a1hena/JobBars/commits/71a8ebdcccd1b9372c5ba5a065c67b6dbe5416dc",
+        "html_url": "https://github.com/a1hena/JobBars/commit/71a8ebdcccd1b9372c5ba5a065c67b6dbe5416dc"
+      }
+    ]
+  },
+  {
+    "sha": "71a8ebdcccd1b9372c5ba5a065c67b6dbe5416dc",
+    "node_id": "C_kwDOHeA4lNoAKDcxYThlYmRjY2NkMWI5MzcyYzViYTVhMDY1YzY3YjZkYmU1NDE2ZGM",
+    "commit": {
+      "author": {
+        "name": "ocealot",
+        "email": "kaminsky.michael@outlook.com",
+        "date": "2025-03-28T23:47:21Z"
+      },
+      "committer": {
+        "name": "ocealot",
+        "email": "kaminsky.michael@outlook.com",
+        "date": "2025-03-28T23:47:21Z"
+      },
+      "message": "update to API 12",
+      "tree": {
+        "sha": "1597c01ab90e7f428f1681cdb36486831378271c",
+        "url": "https://api.github.com/repos/a1hena/JobBars/git/trees/1597c01ab90e7f428f1681cdb36486831378271c"
+      },
+      "url": "https://api.github.com/repos/a1hena/JobBars/git/commits/71a8ebdcccd1b9372c5ba5a065c67b6dbe5416dc",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/JobBars/commits/71a8ebdcccd1b9372c5ba5a065c67b6dbe5416dc",
+    "html_url": "https://github.com/a1hena/JobBars/commit/71a8ebdcccd1b9372c5ba5a065c67b6dbe5416dc",
+    "comments_url": "https://api.github.com/repos/a1hena/JobBars/commits/71a8ebdcccd1b9372c5ba5a065c67b6dbe5416dc/comments",
+    "author": {
+      "login": "0ceal0t",
+      "id": 18051158,
+      "node_id": "MDQ6VXNlcjE4MDUxMTU4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18051158?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/0ceal0t",
+      "html_url": "https://github.com/0ceal0t",
+      "followers_url": "https://api.github.com/users/0ceal0t/followers",
+      "following_url": "https://api.github.com/users/0ceal0t/following{/other_user}",
+      "gists_url": "https://api.github.com/users/0ceal0t/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/0ceal0t/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/0ceal0t/subscriptions",
+      "organizations_url": "https://api.github.com/users/0ceal0t/orgs",
+      "repos_url": "https://api.github.com/users/0ceal0t/repos",
+      "events_url": "https://api.github.com/users/0ceal0t/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/0ceal0t/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "0ceal0t",
+      "id": 18051158,
+      "node_id": "MDQ6VXNlcjE4MDUxMTU4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18051158?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/0ceal0t",
+      "html_url": "https://github.com/0ceal0t",
+      "followers_url": "https://api.github.com/users/0ceal0t/followers",
+      "following_url": "https://api.github.com/users/0ceal0t/following{/other_user}",
+      "gists_url": "https://api.github.com/users/0ceal0t/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/0ceal0t/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/0ceal0t/subscriptions",
+      "organizations_url": "https://api.github.com/users/0ceal0t/orgs",
+      "repos_url": "https://api.github.com/users/0ceal0t/repos",
+      "events_url": "https://api.github.com/users/0ceal0t/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/0ceal0t/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "47ee563099248fe7e1e8454e1c851e995627e34e",
+        "url": "https://api.github.com/repos/a1hena/JobBars/commits/47ee563099248fe7e1e8454e1c851e995627e34e",
+        "html_url": "https://github.com/a1hena/JobBars/commit/47ee563099248fe7e1e8454e1c851e995627e34e"
+      }
+    ]
+  },
+  {
     "sha": "d3866363d1cf3cea12e96ec9e7a6f5cfff9484bd",
     "node_id": "C_kwDOHeA4lNoAKGQzODY2MzYzZDFjZjNjZWExMmU5NmVjOWU3YTZmNWNmZmY5NDg0YmQ",
     "commit": {
@@ -2220,252 +2471,6 @@
         "sha": "cab31ad517cc2715b91d06f5fa989a693bb15415",
         "url": "https://api.github.com/repos/a1hena/JobBars/commits/cab31ad517cc2715b91d06f5fa989a693bb15415",
         "html_url": "https://github.com/a1hena/JobBars/commit/cab31ad517cc2715b91d06f5fa989a693bb15415"
-      }
-    ]
-  },
-  {
-    "sha": "cab31ad517cc2715b91d06f5fa989a693bb15415",
-    "node_id": "C_kwDOHeA4lNoAKGNhYjMxYWQ1MTdjYzI3MTViOTFkMDZmNWZhOTg5YTY5M2JiMTU0MTU",
-    "commit": {
-      "author": {
-        "name": "ocealot",
-        "email": "kaminsky.michael@outlook.com",
-        "date": "2024-07-09T00:51:11Z"
-      },
-      "committer": {
-        "name": "ocealot",
-        "email": "kaminsky.michael@outlook.com",
-        "date": "2024-07-09T00:51:11Z"
-      },
-      "message": "v1.3.1.0",
-      "tree": {
-        "sha": "e042d1e38d776da39b449d7041e7be4f0d0f5f6d",
-        "url": "https://api.github.com/repos/a1hena/JobBars/git/trees/e042d1e38d776da39b449d7041e7be4f0d0f5f6d"
-      },
-      "url": "https://api.github.com/repos/a1hena/JobBars/git/commits/cab31ad517cc2715b91d06f5fa989a693bb15415",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null,
-        "verified_at": null
-      }
-    },
-    "url": "https://api.github.com/repos/a1hena/JobBars/commits/cab31ad517cc2715b91d06f5fa989a693bb15415",
-    "html_url": "https://github.com/a1hena/JobBars/commit/cab31ad517cc2715b91d06f5fa989a693bb15415",
-    "comments_url": "https://api.github.com/repos/a1hena/JobBars/commits/cab31ad517cc2715b91d06f5fa989a693bb15415/comments",
-    "author": {
-      "login": "0ceal0t",
-      "id": 18051158,
-      "node_id": "MDQ6VXNlcjE4MDUxMTU4",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18051158?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/0ceal0t",
-      "html_url": "https://github.com/0ceal0t",
-      "followers_url": "https://api.github.com/users/0ceal0t/followers",
-      "following_url": "https://api.github.com/users/0ceal0t/following{/other_user}",
-      "gists_url": "https://api.github.com/users/0ceal0t/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/0ceal0t/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/0ceal0t/subscriptions",
-      "organizations_url": "https://api.github.com/users/0ceal0t/orgs",
-      "repos_url": "https://api.github.com/users/0ceal0t/repos",
-      "events_url": "https://api.github.com/users/0ceal0t/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/0ceal0t/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "0ceal0t",
-      "id": 18051158,
-      "node_id": "MDQ6VXNlcjE4MDUxMTU4",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18051158?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/0ceal0t",
-      "html_url": "https://github.com/0ceal0t",
-      "followers_url": "https://api.github.com/users/0ceal0t/followers",
-      "following_url": "https://api.github.com/users/0ceal0t/following{/other_user}",
-      "gists_url": "https://api.github.com/users/0ceal0t/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/0ceal0t/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/0ceal0t/subscriptions",
-      "organizations_url": "https://api.github.com/users/0ceal0t/orgs",
-      "repos_url": "https://api.github.com/users/0ceal0t/repos",
-      "events_url": "https://api.github.com/users/0ceal0t/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/0ceal0t/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "608fa76d130c7bab37879e1f6c0f6c68d355e570",
-        "url": "https://api.github.com/repos/a1hena/JobBars/commits/608fa76d130c7bab37879e1f6c0f6c68d355e570",
-        "html_url": "https://github.com/a1hena/JobBars/commit/608fa76d130c7bab37879e1f6c0f6c68d355e570"
-      }
-    ]
-  },
-  {
-    "sha": "608fa76d130c7bab37879e1f6c0f6c68d355e570",
-    "node_id": "C_kwDOHeA4lNoAKDYwOGZhNzZkMTMwYzdiYWIzNzg3OWUxZjZjMGY2YzY4ZDM1NWU1NzA",
-    "commit": {
-      "author": {
-        "name": "ocealot",
-        "email": "kaminsky.michael@outlook.com",
-        "date": "2024-07-09T00:50:02Z"
-      },
-      "committer": {
-        "name": "ocealot",
-        "email": "kaminsky.michael@outlook.com",
-        "date": "2024-07-09T00:50:02Z"
-      },
-      "message": "hide when appropriate, fix buff icon sizing",
-      "tree": {
-        "sha": "ce2d3dbfc5d5936d0ea3a25efed3260475f278b3",
-        "url": "https://api.github.com/repos/a1hena/JobBars/git/trees/ce2d3dbfc5d5936d0ea3a25efed3260475f278b3"
-      },
-      "url": "https://api.github.com/repos/a1hena/JobBars/git/commits/608fa76d130c7bab37879e1f6c0f6c68d355e570",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null,
-        "verified_at": null
-      }
-    },
-    "url": "https://api.github.com/repos/a1hena/JobBars/commits/608fa76d130c7bab37879e1f6c0f6c68d355e570",
-    "html_url": "https://github.com/a1hena/JobBars/commit/608fa76d130c7bab37879e1f6c0f6c68d355e570",
-    "comments_url": "https://api.github.com/repos/a1hena/JobBars/commits/608fa76d130c7bab37879e1f6c0f6c68d355e570/comments",
-    "author": {
-      "login": "0ceal0t",
-      "id": 18051158,
-      "node_id": "MDQ6VXNlcjE4MDUxMTU4",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18051158?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/0ceal0t",
-      "html_url": "https://github.com/0ceal0t",
-      "followers_url": "https://api.github.com/users/0ceal0t/followers",
-      "following_url": "https://api.github.com/users/0ceal0t/following{/other_user}",
-      "gists_url": "https://api.github.com/users/0ceal0t/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/0ceal0t/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/0ceal0t/subscriptions",
-      "organizations_url": "https://api.github.com/users/0ceal0t/orgs",
-      "repos_url": "https://api.github.com/users/0ceal0t/repos",
-      "events_url": "https://api.github.com/users/0ceal0t/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/0ceal0t/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "0ceal0t",
-      "id": 18051158,
-      "node_id": "MDQ6VXNlcjE4MDUxMTU4",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18051158?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/0ceal0t",
-      "html_url": "https://github.com/0ceal0t",
-      "followers_url": "https://api.github.com/users/0ceal0t/followers",
-      "following_url": "https://api.github.com/users/0ceal0t/following{/other_user}",
-      "gists_url": "https://api.github.com/users/0ceal0t/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/0ceal0t/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/0ceal0t/subscriptions",
-      "organizations_url": "https://api.github.com/users/0ceal0t/orgs",
-      "repos_url": "https://api.github.com/users/0ceal0t/repos",
-      "events_url": "https://api.github.com/users/0ceal0t/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/0ceal0t/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "928cc25f9e704fb87c5b6f5929d2921889398c63",
-        "url": "https://api.github.com/repos/a1hena/JobBars/commits/928cc25f9e704fb87c5b6f5929d2921889398c63",
-        "html_url": "https://github.com/a1hena/JobBars/commit/928cc25f9e704fb87c5b6f5929d2921889398c63"
-      }
-    ]
-  },
-  {
-    "sha": "928cc25f9e704fb87c5b6f5929d2921889398c63",
-    "node_id": "C_kwDOHeA4lNoAKDkyOGNjMjVmOWU3MDRmYjg3YzViNmY1OTI5ZDI5MjE4ODkzOThjNjM",
-    "commit": {
-      "author": {
-        "name": "ocealot",
-        "email": "kaminsky.michael@outlook.com",
-        "date": "2024-07-08T23:24:45Z"
-      },
-      "committer": {
-        "name": "ocealot",
-        "email": "kaminsky.michael@outlook.com",
-        "date": "2024-07-08T23:24:45Z"
-      },
-      "message": "support crossbars",
-      "tree": {
-        "sha": "604b89f953ba1502f5abebcdd7db12545625cc65",
-        "url": "https://api.github.com/repos/a1hena/JobBars/git/trees/604b89f953ba1502f5abebcdd7db12545625cc65"
-      },
-      "url": "https://api.github.com/repos/a1hena/JobBars/git/commits/928cc25f9e704fb87c5b6f5929d2921889398c63",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null,
-        "verified_at": null
-      }
-    },
-    "url": "https://api.github.com/repos/a1hena/JobBars/commits/928cc25f9e704fb87c5b6f5929d2921889398c63",
-    "html_url": "https://github.com/a1hena/JobBars/commit/928cc25f9e704fb87c5b6f5929d2921889398c63",
-    "comments_url": "https://api.github.com/repos/a1hena/JobBars/commits/928cc25f9e704fb87c5b6f5929d2921889398c63/comments",
-    "author": {
-      "login": "0ceal0t",
-      "id": 18051158,
-      "node_id": "MDQ6VXNlcjE4MDUxMTU4",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18051158?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/0ceal0t",
-      "html_url": "https://github.com/0ceal0t",
-      "followers_url": "https://api.github.com/users/0ceal0t/followers",
-      "following_url": "https://api.github.com/users/0ceal0t/following{/other_user}",
-      "gists_url": "https://api.github.com/users/0ceal0t/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/0ceal0t/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/0ceal0t/subscriptions",
-      "organizations_url": "https://api.github.com/users/0ceal0t/orgs",
-      "repos_url": "https://api.github.com/users/0ceal0t/repos",
-      "events_url": "https://api.github.com/users/0ceal0t/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/0ceal0t/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "0ceal0t",
-      "id": 18051158,
-      "node_id": "MDQ6VXNlcjE4MDUxMTU4",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18051158?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/0ceal0t",
-      "html_url": "https://github.com/0ceal0t",
-      "followers_url": "https://api.github.com/users/0ceal0t/followers",
-      "following_url": "https://api.github.com/users/0ceal0t/following{/other_user}",
-      "gists_url": "https://api.github.com/users/0ceal0t/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/0ceal0t/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/0ceal0t/subscriptions",
-      "organizations_url": "https://api.github.com/users/0ceal0t/orgs",
-      "repos_url": "https://api.github.com/users/0ceal0t/repos",
-      "events_url": "https://api.github.com/users/0ceal0t/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/0ceal0t/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "5d5ad66c93790433716ff6be602ee8178808912f",
-        "url": "https://api.github.com/repos/a1hena/JobBars/commits/5d5ad66c93790433716ff6be602ee8178808912f",
-        "html_url": "https://github.com/a1hena/JobBars/commit/5d5ad66c93790433716ff6be602ee8178808912f"
       }
     ]
   }
