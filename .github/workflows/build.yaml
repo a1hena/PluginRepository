@@ -60,7 +60,7 @@ jobs:
           ls "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}-zip"
           Compress-Archive -Force -Path "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}-zip\*" -DestinationPath "${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}\latest.zip"
       - name: Upload Artifact (release)
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: '${{ inputs.plugin-name }}'
           path: '${{ inputs.plugin-name }}\bin\CIRelease\${{ inputs.plugin-name }}'
