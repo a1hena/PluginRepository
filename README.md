@@ -1,0 +1,5 @@
+# PluginRepository
+
+```
+https://raw.githubusercontent.com/a1hena/PluginRepository/master/dist/pluginmaster.json
+```
