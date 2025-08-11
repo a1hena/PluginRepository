@@ -1,0 +1,23 @@
+{
+  "Author": "Liza Carvelli",
+  "Name": "Discard Helper",
+  "InternalName": "ARDiscard",
+  "AssemblyVersion": "8.2",
+  "Description": "Small plugin to help keep your inventory organized (especially when automating retainers or submersibles) by discarding items you don't want (e.g. Stuffed Alphas)",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/a1hena/ARDiscard",
+  "Tags": [
+    "autoretainer",
+    "automation",
+    "discard",
+    "yeet"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://github.com/a1hena/ARDiscard/ARDiscard/ARDiscard.png",
+  "Punchline": "Discard items automatically via a command or as a post-venture task for AutoRetainer",
+  "AcceptsFeedback": true
+}
