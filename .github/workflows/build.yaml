@@ -45,8 +45,8 @@ jobs:
             /p:OutputPath=bin\CIRelease\ `
             /p:Product=CustomPlugin `
             /p:Company=a1hena `
-            '/p:Copyright="${{ env.PLUGIN_AUTHOR }}"' `
-            '/p:AssemblyTitle="${{ env.PLUGIN_DESCRIPTION }}"'
+            /p:Copyright="${{ env.PLUGIN_AUTHOR }}" `
+            /p:AssemblyTitle="${{ env.PLUGIN_DESCRIPTION }}"
       - name: Rename Custom Plugin dll
         run: |
           pwd
