@@ -107,9 +107,9 @@ def merge_manifests(stable):
         manifest["IsTestingExclusive"] = False
         manifest["LastUpdated"] = get_last_updated(stable_path)
         manifest["DownloadLinkInstall"] = stable_link
-        manifest["Name"] = stable_manifest.get("Name") + " a1hena custom"
-        manifest["Author"] = stable_manifest.get("Author") + ", a1hena"
-        manifest["InternalName"] = stable_manifest.get("InternalName") + " a1hena custom"
+        manifest["Name"] = stable_manifest.get("Name")
+        manifest["Author"] = stable_manifest.get("Author")
+        manifest["InternalName"] = stable_manifest.get("InternalName")
 
         manifests.append(manifest)
 
