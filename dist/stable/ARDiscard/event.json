@@ -1,242 +1,10 @@
 {
-  "after": "ebe8c5364e30db5327989f4dbd4ea27b967e00e8",
+  "after": "d525e61184c6c9788a6229e2c360f649325c1ddf",
   "base_ref": null,
-  "before": "0000000000000000000000000000000000000000",
+  "before": "ebe8c5364e30db5327989f4dbd4ea27b967e00e8",
   "commits": [
     {
       "author": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "committer": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "distinct": true,
-      "id": "b92bff24551a46fce13a20120229522b187196f4",
-      "message": "Version bump",
-      "timestamp": "2024-11-09T12:19:09+01:00",
-      "tree_id": "3abc468b16dfe31ba039d5c253a9c0fc0d94bb39",
-      "url": "https://github.com/a1hena/ARDiscard/commit/b92bff24551a46fce13a20120229522b187196f4"
-    },
-    {
-      "author": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "committer": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "distinct": true,
-      "id": "6ad112f83866608aee2e4ad8ad27e170274d4c9a",
-      "message": "API 11",
-      "timestamp": "2024-11-18T21:18:14+01:00",
-      "tree_id": "6661023f8b88360010408827ad1684284e7b72d3",
-      "url": "https://github.com/a1hena/ARDiscard/commit/6ad112f83866608aee2e4ad8ad27e170274d4c9a"
-    },
-    {
-      "author": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "committer": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "distinct": true,
-      "id": "5258ed35fd4a5287febf40d015827b2f5b31adbd",
-      "message": "Rename debug PackagePlugin target",
-      "timestamp": "2024-12-19T15:16:30+01:00",
-      "tree_id": "a51eb39cc475525bb0a7d16f1e4b871225dc26fa",
-      "url": "https://github.com/a1hena/ARDiscard/commit/5258ed35fd4a5287febf40d015827b2f5b31adbd"
-    },
-    {
-      "author": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "committer": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "distinct": true,
-      "id": "8943aaf0c41d61310248439463f93fa175577cec",
-      "message": "Make limited items from 7.0/7.1 discardable",
-      "timestamp": "2025-03-22T00:56:49+01:00",
-      "tree_id": "9190d2532e310ef59dc1458ec12c79df1fca54f0",
-      "url": "https://github.com/a1hena/ARDiscard/commit/8943aaf0c41d61310248439463f93fa175577cec"
-    },
-    {
-      "author": {
-        "email": "9527380+Jaksuhn@users.noreply.github.com",
-        "name": "Jackson",
-        "username": "Jaksuhn"
-      },
-      "committer": {
-        "email": "9527380+Jaksuhn@users.noreply.github.com",
-        "name": "Jackson",
-        "username": "Jaksuhn"
-      },
-      "distinct": true,
-      "id": "8ffeb8885cc67f57df04b350dc1460b7d2e26639",
-      "message": "api12",
-      "timestamp": "2025-03-28T18:30:05+01:00",
-      "tree_id": "cf03d4b69d9da994b170d74f48072464e2ee2c83",
-      "url": "https://github.com/a1hena/ARDiscard/commit/8ffeb8885cc67f57df04b350dc1460b7d2e26639"
-    },
-    {
-      "author": {
-        "email": "liza@no-reply.carvel.li",
-        "name": "Liza"
-      },
-      "committer": {
-        "email": "liza@no-reply.carvel.li",
-        "name": "Liza"
-      },
-      "distinct": true,
-      "id": "5e0333e10b412550d469e7933e83f345b534d473",
-      "message": "api12 prelim/vs support (#3)\n\nReviewed-on: https://git.carvel.li/liza/ARDiscard/pulls/3",
-      "timestamp": "2025-03-29T00:27:38Z",
-      "tree_id": "cf03d4b69d9da994b170d74f48072464e2ee2c83",
-      "url": "https://github.com/a1hena/ARDiscard/commit/5e0333e10b412550d469e7933e83f345b534d473"
-    },
-    {
-      "author": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "committer": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "distinct": true,
-      "id": "f4a59dc15c3295aab9e4dfb0d06bf5a794005827",
-      "message": "Update version, LLIb + CI",
-      "timestamp": "2025-03-29T01:35:46+01:00",
-      "tree_id": "c1dbd4872ed871d63046fa762d0b87d01a381bc1",
-      "url": "https://github.com/a1hena/ARDiscard/commit/f4a59dc15c3295aab9e4dfb0d06bf5a794005827"
-    },
-    {
-      "author": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "committer": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "distinct": true,
-      "id": "7ecc0978a300f6cb7b838fa2a24aea724ba3e1f0",
-      "message": "Update CI",
-      "timestamp": "2025-03-29T01:38:05+01:00",
-      "tree_id": "43076de12972a374de8121d9d73a1367db9e904b",
-      "url": "https://github.com/a1hena/ARDiscard/commit/7ecc0978a300f6cb7b838fa2a24aea724ba3e1f0"
-    },
-    {
-      "author": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "committer": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "distinct": true,
-      "id": "e9b45b74ee843f7ec66f28e41ab2530a95cbc700",
-      "message": "Update CI",
-      "timestamp": "2025-03-29T01:49:54+01:00",
-      "tree_id": "3efa1a12d53acf7f3d2dca957f8db4789f4a9d1f",
-      "url": "https://github.com/a1hena/ARDiscard/commit/e9b45b74ee843f7ec66f28e41ab2530a95cbc700"
-    },
-    {
-      "author": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "committer": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "distinct": true,
-      "id": "f09df2bd1e9922de849f48dbfe58d9b200668a88",
-      "message": "Update AR API",
-      "timestamp": "2025-03-29T02:27:19+01:00",
-      "tree_id": "146ccbe1f6715603adfa305e3e8418e67d907673",
-      "url": "https://github.com/a1hena/ARDiscard/commit/f09df2bd1e9922de849f48dbfe58d9b200668a88"
-    },
-    {
-      "author": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "committer": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "distinct": true,
-      "id": "c7914fbc8c0dfe29bc7838c617951f0d70ed8550",
-      "message": "Update CI",
-      "timestamp": "2025-03-29T02:29:42+01:00",
-      "tree_id": "dab41b71c8f87e1d7c1f269ba8335aec499b9018",
-      "url": "https://github.com/a1hena/ARDiscard/commit/c7914fbc8c0dfe29bc7838c617951f0d70ed8550"
-    },
-    {
-      "author": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "committer": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "distinct": true,
-      "id": "9045d8c9af0ff2d0fd3187812fa092b2e6b340b8",
-      "message": "Add IsRunning IPC",
-      "timestamp": "2025-04-04T21:37:54+02:00",
-      "tree_id": "071b2fd0fe23554a1edb65ae5fd6274dbadcf205",
-      "url": "https://github.com/a1hena/ARDiscard/commit/9045d8c9af0ff2d0fd3187812fa092b2e6b340b8"
-    },
-    {
-      "author": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "committer": {
-        "email": "liza@carvel.li",
-        "name": "Liza Carvelli",
-        "username": "carvelli"
-      },
-      "distinct": true,
-      "id": "79b9f4ef7aefed89699cd72079faec6941b67aa4",
-      "message": "Clean up",
-      "timestamp": "2025-06-05T21:55:29+02:00",
-      "tree_id": "58420d6fd77ce5959940f2045b36a6d9fcd10de4",
-      "url": "https://github.com/a1hena/ARDiscard/commit/79b9f4ef7aefed89699cd72079faec6941b67aa4"
-    },
-    {
-      "author": {
         "email": "102157679+a1hena@users.noreply.github.com",
         "name": "a1hena",
         "username": "a1hena"
@@ -247,123 +15,15 @@
         "username": "a1hena"
       },
       "distinct": true,
-      "id": "507a245fdfe699e2dbf79fbb75afbd8ed0bc6ef4",
-      "message": "update libs",
-      "timestamp": "2025-08-11T21:23:31+09:00",
-      "tree_id": "e59776a3708ca7c5fb39e179fd42a5f19d500268",
-      "url": "https://github.com/a1hena/ARDiscard/commit/507a245fdfe699e2dbf79fbb75afbd8ed0bc6ef4"
-    },
-    {
-      "author": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "committer": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "distinct": true,
-      "id": "73d30c8e74cb26883a2a8132526fed535a19b1a2",
-      "message": "Update packages.lock.json",
-      "timestamp": "2025-08-11T21:23:37+09:00",
-      "tree_id": "2428e500c406765f6fac2c0a5d6999a9b20fe825",
-      "url": "https://github.com/a1hena/ARDiscard/commit/73d30c8e74cb26883a2a8132526fed535a19b1a2"
-    },
-    {
-      "author": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "committer": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "distinct": true,
-      "id": "ebcfef1ff3f4d0b268365cec6a220d2f21cd6308",
-      "message": "update metadata",
-      "timestamp": "2025-08-11T21:25:08+09:00",
-      "tree_id": "907d025b516cc5d824cb90d0e4634802b4b0d562",
-      "url": "https://github.com/a1hena/ARDiscard/commit/ebcfef1ff3f4d0b268365cec6a220d2f21cd6308"
-    },
-    {
-      "author": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "committer": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "distinct": true,
-      "id": "6bbb83b074b0a7139ec749bd60a96d39afefe20f",
-      "message": "Create ci.yaml",
-      "timestamp": "2025-08-11T21:25:43+09:00",
-      "tree_id": "a14d960010447658ebb1a87d68b037c49be1ff2b",
-      "url": "https://github.com/a1hena/ARDiscard/commit/6bbb83b074b0a7139ec749bd60a96d39afefe20f"
-    },
-    {
-      "author": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "committer": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "distinct": true,
-      "id": "ae4623ca40fdcecec1efff6f8dd32f7f40ae7155",
-      "message": "Update ARDiscard.json",
-      "timestamp": "2025-08-11T21:28:07+09:00",
-      "tree_id": "caba807a7e1d6c4eb203c77124cce0e8cb1336f4",
-      "url": "https://github.com/a1hena/ARDiscard/commit/ae4623ca40fdcecec1efff6f8dd32f7f40ae7155"
-    },
-    {
-      "author": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "committer": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "distinct": true,
-      "id": "5639af1433a5739532ec64af012c9c004cfd3373",
-      "message": "api13",
-      "timestamp": "2025-08-11T23:35:45+09:00",
-      "tree_id": "300bd7ec4a8c556cf3b65eca26091329d38049e9",
-      "url": "https://github.com/a1hena/ARDiscard/commit/5639af1433a5739532ec64af012c9c004cfd3373"
-    },
-    {
-      "author": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "committer": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "distinct": true,
-      "id": "ebe8c5364e30db5327989f4dbd4ea27b967e00e8",
-      "message": "Delete build.yaml",
-      "timestamp": "2025-08-11T23:36:10+09:00",
-      "tree_id": "9790d93cc733ea4825a6f6723242d0e9e5b94a94",
-      "url": "https://github.com/a1hena/ARDiscard/commit/ebe8c5364e30db5327989f4dbd4ea27b967e00e8"
+      "id": "d525e61184c6c9788a6229e2c360f649325c1ddf",
+      "message": "8.3",
+      "timestamp": "2025-08-11T23:42:34+09:00",
+      "tree_id": "844bbd8d0f415bf5a6f6075a62ef1527580fa96f",
+      "url": "https://github.com/a1hena/ARDiscard/commit/d525e61184c6c9788a6229e2c360f649325c1ddf"
     }
   ],
-  "compare": "https://github.com/a1hena/ARDiscard/compare/b92bff24551a^...ebe8c5364e30",
-  "created": true,
+  "compare": "https://github.com/a1hena/ARDiscard/compare/ebe8c5364e30...d525e61184c6",
+  "created": false,
   "deleted": false,
   "forced": false,
   "head_commit": {
@@ -378,11 +38,11 @@
       "username": "a1hena"
     },
     "distinct": true,
-    "id": "ebe8c5364e30db5327989f4dbd4ea27b967e00e8",
-    "message": "Delete build.yaml",
-    "timestamp": "2025-08-11T23:36:10+09:00",
-    "tree_id": "9790d93cc733ea4825a6f6723242d0e9e5b94a94",
-    "url": "https://github.com/a1hena/ARDiscard/commit/ebe8c5364e30db5327989f4dbd4ea27b967e00e8"
+    "id": "d525e61184c6c9788a6229e2c360f649325c1ddf",
+    "message": "8.3",
+    "timestamp": "2025-08-11T23:42:34+09:00",
+    "tree_id": "844bbd8d0f415bf5a6f6075a62ef1527580fa96f",
+    "url": "https://github.com/a1hena/ARDiscard/commit/d525e61184c6c9788a6229e2c360f649325c1ddf"
   },
   "pusher": {
     "email": "102157679+a1hena@users.noreply.github.com",
@@ -435,7 +95,7 @@
     "issues_url": "https://api.github.com/repos/a1hena/ARDiscard/issues{/number}",
     "keys_url": "https://api.github.com/repos/a1hena/ARDiscard/keys{/key_id}",
     "labels_url": "https://api.github.com/repos/a1hena/ARDiscard/labels{/name}",
-    "language": null,
+    "language": "C#",
     "languages_url": "https://api.github.com/repos/a1hena/ARDiscard/languages",
     "license": null,
     "master_branch": "master",
@@ -472,7 +132,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/a1hena/ARDiscard/pulls{/number}",
-    "pushed_at": 1754923048,
+    "pushed_at": 1754923364,
     "releases_url": "https://api.github.com/repos/a1hena/ARDiscard/releases{/id}",
     "size": 0,
     "ssh_url": "git@github.com:a1hena/ARDiscard.git",
@@ -487,7 +147,7 @@
     "teams_url": "https://api.github.com/repos/a1hena/ARDiscard/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/a1hena/ARDiscard/git/trees{/sha}",
-    "updated_at": "2025-08-11T14:37:19Z",
+    "updated_at": "2025-08-11T14:37:39Z",
     "url": "https://api.github.com/repos/a1hena/ARDiscard",
     "visibility": "public",
     "watchers": 0,
