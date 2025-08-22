@@ -1,0 +1,17 @@
+{
+  "Author": "Liza Carvelli, a1hena",
+  "Name": "ARC",
+  "InternalName": "ARControl",
+  "AssemblyVersion": "8.1",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/a1hena/ARControl",
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/a1hena/ARC/master/ARControl.png",
+  "Punchline": "Better AutoRetainer Venture Planner",
+  "AcceptsFeedback": true
+}
