@@ -1,7 +1,7 @@
 {
-  "after": "2c72047a18245dc7ba62870d6dc02a9a4d914e64",
+  "after": "1138beb8499dc0f0c8303095f33b1cc61c3dae04",
   "base_ref": null,
-  "before": "4fbbb31508d1673450b1d494c5b5406c48131b84",
+  "before": "2c72047a18245dc7ba62870d6dc02a9a4d914e64",
   "commits": [
     {
       "author": {
@@ -15,14 +15,32 @@
         "username": "a1hena"
       },
       "distinct": true,
-      "id": "2c72047a18245dc7ba62870d6dc02a9a4d914e64",
-      "message": "bump version",
-      "timestamp": "2025-12-22T10:50:30+09:00",
-      "tree_id": "ffac3e1a72d8e8f680710906cf07c0f819245e37",
-      "url": "https://github.com/a1hena/ARControl/commit/2c72047a18245dc7ba62870d6dc02a9a4d914e64"
+      "id": "2b52febe37bba4288a6f44d76c4bd1f7eb80fdaa",
+      "message": "Remove LLib dependencies",
+      "timestamp": "2025-12-22T11:05:20+09:00",
+      "tree_id": "7d6198969bc97098f5e366a7341fd327280465b0",
+      "url": "https://github.com/a1hena/ARControl/commit/2b52febe37bba4288a6f44d76c4bd1f7eb80fdaa"
+    },
+    {
+      "author": {
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "name": "a1hena",
+        "username": "a1hena"
+      },
+      "committer": {
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "name": "a1hena",
+        "username": "a1hena"
+      },
+      "distinct": true,
+      "id": "1138beb8499dc0f0c8303095f33b1cc61c3dae04",
+      "message": "Switch to ECommons DalamudReflector\n\n- Replace custom DalamudReflector implementation with ECommons.Reflection.DalamudReflector\n- Simplify AutoRetainerReflection by removing IDisposable pattern (static method usage)\n- Delete ARControl/Internal/DalamudReflector.cs (117 lines)\n- Update .gitignore to exclude .claude/ directory",
+      "timestamp": "2025-12-22T11:10:31+09:00",
+      "tree_id": "d361372f5133bb63cd33daacfdd129a0e1c89cb3",
+      "url": "https://github.com/a1hena/ARControl/commit/1138beb8499dc0f0c8303095f33b1cc61c3dae04"
     }
   ],
-  "compare": "https://github.com/a1hena/ARControl/compare/4fbbb31508d1...2c72047a1824",
+  "compare": "https://github.com/a1hena/ARControl/compare/2c72047a1824...1138beb8499d",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +56,11 @@
       "username": "a1hena"
     },
     "distinct": true,
-    "id": "2c72047a18245dc7ba62870d6dc02a9a4d914e64",
-    "message": "bump version",
-    "timestamp": "2025-12-22T10:50:30+09:00",
-    "tree_id": "ffac3e1a72d8e8f680710906cf07c0f819245e37",
-    "url": "https://github.com/a1hena/ARControl/commit/2c72047a18245dc7ba62870d6dc02a9a4d914e64"
+    "id": "1138beb8499dc0f0c8303095f33b1cc61c3dae04",
+    "message": "Switch to ECommons DalamudReflector\n\n- Replace custom DalamudReflector implementation with ECommons.Reflection.DalamudReflector\n- Simplify AutoRetainerReflection by removing IDisposable pattern (static method usage)\n- Delete ARControl/Internal/DalamudReflector.cs (117 lines)\n- Update .gitignore to exclude .claude/ directory",
+    "timestamp": "2025-12-22T11:10:31+09:00",
+    "tree_id": "d361372f5133bb63cd33daacfdd129a0e1c89cb3",
+    "url": "https://github.com/a1hena/ARControl/commit/1138beb8499dc0f0c8303095f33b1cc61c3dae04"
   },
   "pusher": {
     "email": "102157679+a1hena@users.noreply.github.com",
@@ -132,7 +150,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/a1hena/ARControl/pulls{/number}",
-    "pushed_at": 1766368234,
+    "pushed_at": 1766369459,
     "releases_url": "https://api.github.com/repos/a1hena/ARControl/releases{/id}",
     "size": 160,
     "ssh_url": "git@github.com:a1hena/ARControl.git",
@@ -147,7 +165,7 @@
     "teams_url": "https://api.github.com/repos/a1hena/ARControl/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/a1hena/ARControl/git/trees{/sha}",
-    "updated_at": "2025-12-22T01:45:18Z",
+    "updated_at": "2025-12-22T01:50:37Z",
     "url": "https://api.github.com/repos/a1hena/ARControl",
     "visibility": "public",
     "watchers": 0,

@@ -1,5 +1,169 @@
 [
   {
+    "sha": "1138beb8499dc0f0c8303095f33b1cc61c3dae04",
+    "node_id": "C_kwDOPiI53doAKDExMzhiZWI4NDk5ZGMwZjBjODMwMzA5NWYzM2IxY2M2MWMzZGFlMDQ",
+    "commit": {
+      "author": {
+        "name": "a1hena",
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "date": "2025-12-22T02:10:31Z"
+      },
+      "committer": {
+        "name": "a1hena",
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "date": "2025-12-22T02:10:31Z"
+      },
+      "message": "Switch to ECommons DalamudReflector\n\n- Replace custom DalamudReflector implementation with ECommons.Reflection.DalamudReflector\n- Simplify AutoRetainerReflection by removing IDisposable pattern (static method usage)\n- Delete ARControl/Internal/DalamudReflector.cs (117 lines)\n- Update .gitignore to exclude .claude/ directory",
+      "tree": {
+        "sha": "d361372f5133bb63cd33daacfdd129a0e1c89cb3",
+        "url": "https://api.github.com/repos/a1hena/ARControl/git/trees/d361372f5133bb63cd33daacfdd129a0e1c89cb3"
+      },
+      "url": "https://api.github.com/repos/a1hena/ARControl/git/commits/1138beb8499dc0f0c8303095f33b1cc61c3dae04",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/ARControl/commits/1138beb8499dc0f0c8303095f33b1cc61c3dae04",
+    "html_url": "https://github.com/a1hena/ARControl/commit/1138beb8499dc0f0c8303095f33b1cc61c3dae04",
+    "comments_url": "https://api.github.com/repos/a1hena/ARControl/commits/1138beb8499dc0f0c8303095f33b1cc61c3dae04/comments",
+    "author": {
+      "login": "a1hena",
+      "id": 102157679,
+      "node_id": "U_kgDOBhbNbw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102157679?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/a1hena",
+      "html_url": "https://github.com/a1hena",
+      "followers_url": "https://api.github.com/users/a1hena/followers",
+      "following_url": "https://api.github.com/users/a1hena/following{/other_user}",
+      "gists_url": "https://api.github.com/users/a1hena/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/a1hena/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/a1hena/subscriptions",
+      "organizations_url": "https://api.github.com/users/a1hena/orgs",
+      "repos_url": "https://api.github.com/users/a1hena/repos",
+      "events_url": "https://api.github.com/users/a1hena/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/a1hena/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "a1hena",
+      "id": 102157679,
+      "node_id": "U_kgDOBhbNbw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102157679?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/a1hena",
+      "html_url": "https://github.com/a1hena",
+      "followers_url": "https://api.github.com/users/a1hena/followers",
+      "following_url": "https://api.github.com/users/a1hena/following{/other_user}",
+      "gists_url": "https://api.github.com/users/a1hena/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/a1hena/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/a1hena/subscriptions",
+      "organizations_url": "https://api.github.com/users/a1hena/orgs",
+      "repos_url": "https://api.github.com/users/a1hena/repos",
+      "events_url": "https://api.github.com/users/a1hena/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/a1hena/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2b52febe37bba4288a6f44d76c4bd1f7eb80fdaa",
+        "url": "https://api.github.com/repos/a1hena/ARControl/commits/2b52febe37bba4288a6f44d76c4bd1f7eb80fdaa",
+        "html_url": "https://github.com/a1hena/ARControl/commit/2b52febe37bba4288a6f44d76c4bd1f7eb80fdaa"
+      }
+    ]
+  },
+  {
+    "sha": "2b52febe37bba4288a6f44d76c4bd1f7eb80fdaa",
+    "node_id": "C_kwDOPiI53doAKDJiNTJmZWJlMzdiYmE0Mjg4YTZmNDRkNzZjNGJkMWY3ZWI4MGZkYWE",
+    "commit": {
+      "author": {
+        "name": "a1hena",
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "date": "2025-12-22T02:05:20Z"
+      },
+      "committer": {
+        "name": "a1hena",
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "date": "2025-12-22T02:05:20Z"
+      },
+      "message": "Remove LLib dependencies",
+      "tree": {
+        "sha": "7d6198969bc97098f5e366a7341fd327280465b0",
+        "url": "https://api.github.com/repos/a1hena/ARControl/git/trees/7d6198969bc97098f5e366a7341fd327280465b0"
+      },
+      "url": "https://api.github.com/repos/a1hena/ARControl/git/commits/2b52febe37bba4288a6f44d76c4bd1f7eb80fdaa",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/a1hena/ARControl/commits/2b52febe37bba4288a6f44d76c4bd1f7eb80fdaa",
+    "html_url": "https://github.com/a1hena/ARControl/commit/2b52febe37bba4288a6f44d76c4bd1f7eb80fdaa",
+    "comments_url": "https://api.github.com/repos/a1hena/ARControl/commits/2b52febe37bba4288a6f44d76c4bd1f7eb80fdaa/comments",
+    "author": {
+      "login": "a1hena",
+      "id": 102157679,
+      "node_id": "U_kgDOBhbNbw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102157679?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/a1hena",
+      "html_url": "https://github.com/a1hena",
+      "followers_url": "https://api.github.com/users/a1hena/followers",
+      "following_url": "https://api.github.com/users/a1hena/following{/other_user}",
+      "gists_url": "https://api.github.com/users/a1hena/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/a1hena/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/a1hena/subscriptions",
+      "organizations_url": "https://api.github.com/users/a1hena/orgs",
+      "repos_url": "https://api.github.com/users/a1hena/repos",
+      "events_url": "https://api.github.com/users/a1hena/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/a1hena/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "a1hena",
+      "id": 102157679,
+      "node_id": "U_kgDOBhbNbw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102157679?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/a1hena",
+      "html_url": "https://github.com/a1hena",
+      "followers_url": "https://api.github.com/users/a1hena/followers",
+      "following_url": "https://api.github.com/users/a1hena/following{/other_user}",
+      "gists_url": "https://api.github.com/users/a1hena/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/a1hena/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/a1hena/subscriptions",
+      "organizations_url": "https://api.github.com/users/a1hena/orgs",
+      "repos_url": "https://api.github.com/users/a1hena/repos",
+      "events_url": "https://api.github.com/users/a1hena/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/a1hena/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2c72047a18245dc7ba62870d6dc02a9a4d914e64",
+        "url": "https://api.github.com/repos/a1hena/ARControl/commits/2c72047a18245dc7ba62870d6dc02a9a4d914e64",
+        "html_url": "https://github.com/a1hena/ARControl/commit/2c72047a18245dc7ba62870d6dc02a9a4d914e64"
+      }
+    ]
+  },
+  {
     "sha": "2c72047a18245dc7ba62870d6dc02a9a4d914e64",
     "node_id": "C_kwDOPiI53doAKDJjNzIwNDdhMTgyNDVkYzdiYTYyODcwZDZkYzAyYTlhNGQ5MTRlNjQ",
     "commit": {
@@ -1502,90 +1666,6 @@
         "sha": "9ecbd1e3b22cee5c654cbe8cb4580af6ebb4e300",
         "url": "https://api.github.com/repos/a1hena/ARControl/commits/9ecbd1e3b22cee5c654cbe8cb4580af6ebb4e300",
         "html_url": "https://github.com/a1hena/ARControl/commit/9ecbd1e3b22cee5c654cbe8cb4580af6ebb4e300"
-      }
-    ]
-  },
-  {
-    "sha": "9ecbd1e3b22cee5c654cbe8cb4580af6ebb4e300",
-    "node_id": "C_kwDOPiI53doAKDllY2JkMWUzYjIyY2VlNWM2NTRjYmU4Y2I0NTgwYWY2ZWJiNGUzMDA",
-    "commit": {
-      "author": {
-        "name": "Liza Carvelli",
-        "email": "liza@carvel.li",
-        "date": "2024-07-03T17:08:40Z"
-      },
-      "committer": {
-        "name": "Liza Carvelli",
-        "email": "liza@carvel.li",
-        "date": "2024-07-03T17:08:40Z"
-      },
-      "message": "API 10",
-      "tree": {
-        "sha": "93ec499bb5a2a9b545d6ed142985cf5802726475",
-        "url": "https://api.github.com/repos/a1hena/ARControl/git/trees/93ec499bb5a2a9b545d6ed142985cf5802726475"
-      },
-      "url": "https://api.github.com/repos/a1hena/ARControl/git/commits/9ecbd1e3b22cee5c654cbe8cb4580af6ebb4e300",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "no_user",
-        "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQTa9butFCxnjN0YMdtxmfjXJ9VfZwUCZoWFmAAKCRBxmfjXJ9Vf\nZ++7AP9FEYOB/UJ6S5zKLXybV+BC9Pa5lgR1A5CCFofo08+SmgEAz75OIqEkJ1lw\nak/9lzaYG2/MbEjDwrH71nvV2Nuapwk=\n=K/77\n-----END PGP SIGNATURE-----",
-        "payload": "tree 93ec499bb5a2a9b545d6ed142985cf5802726475\nparent 0425d446a1f09226bf4399ad6602d0137a566a7d\nauthor Liza Carvelli <liza@carvel.li> 1720026520 +0200\ncommitter Liza Carvelli <liza@carvel.li> 1720026520 +0200\n\nAPI 10\n",
-        "verified_at": null
-      }
-    },
-    "url": "https://api.github.com/repos/a1hena/ARControl/commits/9ecbd1e3b22cee5c654cbe8cb4580af6ebb4e300",
-    "html_url": "https://github.com/a1hena/ARControl/commit/9ecbd1e3b22cee5c654cbe8cb4580af6ebb4e300",
-    "comments_url": "https://api.github.com/repos/a1hena/ARControl/commits/9ecbd1e3b22cee5c654cbe8cb4580af6ebb4e300/comments",
-    "author": null,
-    "committer": null,
-    "parents": [
-      {
-        "sha": "0425d446a1f09226bf4399ad6602d0137a566a7d",
-        "url": "https://api.github.com/repos/a1hena/ARControl/commits/0425d446a1f09226bf4399ad6602d0137a566a7d",
-        "html_url": "https://github.com/a1hena/ARControl/commit/0425d446a1f09226bf4399ad6602d0137a566a7d"
-      }
-    ]
-  },
-  {
-    "sha": "0425d446a1f09226bf4399ad6602d0137a566a7d",
-    "node_id": "C_kwDOPiI53doAKDA0MjVkNDQ2YTFmMDkyMjZiZjQzOTlhZDY2MDJkMDEzN2E1NjZhN2Q",
-    "commit": {
-      "author": {
-        "name": "Liza Carvelli",
-        "email": "liza@carvel.li",
-        "date": "2024-05-05T09:38:51Z"
-      },
-      "committer": {
-        "name": "Liza Carvelli",
-        "email": "liza@carvel.li",
-        "date": "2024-05-05T09:38:51Z"
-      },
-      "message": "Don't assign ventures if AR is set to collect only\n\nThis is only effective when the 'Operation' under Settings → General is\nset to 'Collect', it ignores any hotkeys that would (normally) modify\nhow AR operates.",
-      "tree": {
-        "sha": "b29fd6441681004d09f226474b6b1b46d1ef2384",
-        "url": "https://api.github.com/repos/a1hena/ARControl/git/trees/b29fd6441681004d09f226474b6b1b46d1ef2384"
-      },
-      "url": "https://api.github.com/repos/a1hena/ARControl/git/commits/0425d446a1f09226bf4399ad6602d0137a566a7d",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "no_user",
-        "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQTa9butFCxnjN0YMdtxmfjXJ9VfZwUCZjdTswAKCRBxmfjXJ9Vf\nZ1/8AP9ESqqIFC3U+81pBfFSO6PCbdt9vKs7068MLMyfqlxCpAD/WYSzhCPmIBPa\nN9bmsbQXRC4LCeVThb9bUlaWlDhVFwI=\n=D6kg\n-----END PGP SIGNATURE-----",
-        "payload": "tree b29fd6441681004d09f226474b6b1b46d1ef2384\nparent 8a3a6399b2f6d8c476698542b7b44950795be201\nauthor Liza Carvelli <liza@carvel.li> 1714901931 +0200\ncommitter Liza Carvelli <liza@carvel.li> 1714901931 +0200\n\nDon't assign ventures if AR is set to collect only\n\nThis is only effective when the 'Operation' under Settings → General is\nset to 'Collect', it ignores any hotkeys that would (normally) modify\nhow AR operates.\n",
-        "verified_at": null
-      }
-    },
-    "url": "https://api.github.com/repos/a1hena/ARControl/commits/0425d446a1f09226bf4399ad6602d0137a566a7d",
-    "html_url": "https://github.com/a1hena/ARControl/commit/0425d446a1f09226bf4399ad6602d0137a566a7d",
-    "comments_url": "https://api.github.com/repos/a1hena/ARControl/commits/0425d446a1f09226bf4399ad6602d0137a566a7d/comments",
-    "author": null,
-    "committer": null,
-    "parents": [
-      {
-        "sha": "8a3a6399b2f6d8c476698542b7b44950795be201",
-        "url": "https://api.github.com/repos/a1hena/ARControl/commits/8a3a6399b2f6d8c476698542b7b44950795be201",
-        "html_url": "https://github.com/a1hena/ARControl/commit/8a3a6399b2f6d8c476698542b7b44950795be201"
       }
     ]
   }
