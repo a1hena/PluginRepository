@@ -1,7 +1,7 @@
 {
-  "after": "4fbbb31508d1673450b1d494c5b5406c48131b84",
+  "after": "2c72047a18245dc7ba62870d6dc02a9a4d914e64",
   "base_ref": null,
-  "before": "9d0aad1954b522712131f3594350abd719f6f520",
+  "before": "4fbbb31508d1673450b1d494c5b5406c48131b84",
   "commits": [
     {
       "author": {
@@ -15,14 +15,14 @@
         "username": "a1hena"
       },
       "distinct": true,
-      "id": "4fbbb31508d1673450b1d494c5b5406c48131b84",
-      "message": "api14/net10",
-      "timestamp": "2025-12-22T10:45:08+09:00",
-      "tree_id": "5053f75ec0b80e1aadce1de65a53a3b32bcc571e",
-      "url": "https://github.com/a1hena/ARControl/commit/4fbbb31508d1673450b1d494c5b5406c48131b84"
+      "id": "2c72047a18245dc7ba62870d6dc02a9a4d914e64",
+      "message": "bump version",
+      "timestamp": "2025-12-22T10:50:30+09:00",
+      "tree_id": "ffac3e1a72d8e8f680710906cf07c0f819245e37",
+      "url": "https://github.com/a1hena/ARControl/commit/2c72047a18245dc7ba62870d6dc02a9a4d914e64"
     }
   ],
-  "compare": "https://github.com/a1hena/ARControl/compare/9d0aad1954b5...4fbbb31508d1",
+  "compare": "https://github.com/a1hena/ARControl/compare/4fbbb31508d1...2c72047a1824",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +38,11 @@
       "username": "a1hena"
     },
     "distinct": true,
-    "id": "4fbbb31508d1673450b1d494c5b5406c48131b84",
-    "message": "api14/net10",
-    "timestamp": "2025-12-22T10:45:08+09:00",
-    "tree_id": "5053f75ec0b80e1aadce1de65a53a3b32bcc571e",
-    "url": "https://github.com/a1hena/ARControl/commit/4fbbb31508d1673450b1d494c5b5406c48131b84"
+    "id": "2c72047a18245dc7ba62870d6dc02a9a4d914e64",
+    "message": "bump version",
+    "timestamp": "2025-12-22T10:50:30+09:00",
+    "tree_id": "ffac3e1a72d8e8f680710906cf07c0f819245e37",
+    "url": "https://github.com/a1hena/ARControl/commit/2c72047a18245dc7ba62870d6dc02a9a4d914e64"
   },
   "pusher": {
     "email": "102157679+a1hena@users.noreply.github.com",
@@ -132,7 +132,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/a1hena/ARControl/pulls{/number}",
-    "pushed_at": 1766367914,
+    "pushed_at": 1766368234,
     "releases_url": "https://api.github.com/repos/a1hena/ARControl/releases{/id}",
     "size": 160,
     "ssh_url": "git@github.com:a1hena/ARControl.git",
@@ -147,7 +147,7 @@
     "teams_url": "https://api.github.com/repos/a1hena/ARControl/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/a1hena/ARControl/git/trees{/sha}",
-    "updated_at": "2025-08-22T02:52:39Z",
+    "updated_at": "2025-12-22T01:45:18Z",
     "url": "https://api.github.com/repos/a1hena/ARControl",
     "visibility": "public",
     "watchers": 0,
