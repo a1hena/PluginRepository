@@ -6,7 +6,7 @@
   "Description": "",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/a1hena/ARControl",
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
