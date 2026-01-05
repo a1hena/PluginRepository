@@ -2,7 +2,7 @@
   "Author": "a1hena",
   "Name": "IconBrowser",
   "InternalName": "IconBrowser",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "Description": "A plugin to browse all FF14 UI icons, organized by patch version and category.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/a1hena/IconBrowser",

@@ -1,7 +1,7 @@
 {
-  "after": "1b59dadf460b414089bdfbd8ebd031e5e99b145c",
+  "after": "c80b388ab1a11c3d262eb1793e18d6d85f0110f2",
   "base_ref": null,
-  "before": "0f242e84e0c7ce1738ca911a3bbb4209f4faca7f",
+  "before": "1b59dadf460b414089bdfbd8ebd031e5e99b145c",
   "commits": [
     {
       "author": {
@@ -15,50 +15,14 @@
         "username": "a1hena"
       },
       "distinct": true,
-      "id": "be50a009cd19495a8c459477c45da38b7d6452a8",
-      "message": "fix icon display size",
-      "timestamp": "2026-01-05T21:09:16+09:00",
-      "tree_id": "9ad2b1f9c22dd0933cd5eb3ac01b07360437553a",
-      "url": "https://github.com/a1hena/IconBrowser/commit/be50a009cd19495a8c459477c45da38b7d6452a8"
-    },
-    {
-      "author": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "committer": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "distinct": true,
-      "id": "09295903b2dc52168a088354521aded0124ffd1c",
-      "message": "fix incorrect patch mapping",
-      "timestamp": "2026-01-05T21:09:46+09:00",
-      "tree_id": "e5d710c644472aee8e050110291b5d8e24c8b786",
-      "url": "https://github.com/a1hena/IconBrowser/commit/09295903b2dc52168a088354521aded0124ffd1c"
-    },
-    {
-      "author": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "committer": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "distinct": true,
-      "id": "1b59dadf460b414089bdfbd8ebd031e5e99b145c",
-      "message": "Update ci.yaml",
-      "timestamp": "2026-01-05T21:09:50+09:00",
-      "tree_id": "0788961545e0399dc0bc61527753073f0f461042",
-      "url": "https://github.com/a1hena/IconBrowser/commit/1b59dadf460b414089bdfbd8ebd031e5e99b145c"
+      "id": "c80b388ab1a11c3d262eb1793e18d6d85f0110f2",
+      "message": "1.0.0.1",
+      "timestamp": "2026-01-05T21:28:30+09:00",
+      "tree_id": "57941e0b4c329f0bba41334d5cbdd105a8c78a37",
+      "url": "https://github.com/a1hena/IconBrowser/commit/c80b388ab1a11c3d262eb1793e18d6d85f0110f2"
     }
   ],
-  "compare": "https://github.com/a1hena/IconBrowser/compare/0f242e84e0c7...1b59dadf460b",
+  "compare": "https://github.com/a1hena/IconBrowser/compare/1b59dadf460b...c80b388ab1a1",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -74,11 +38,11 @@
       "username": "a1hena"
     },
     "distinct": true,
-    "id": "1b59dadf460b414089bdfbd8ebd031e5e99b145c",
-    "message": "Update ci.yaml",
-    "timestamp": "2026-01-05T21:09:50+09:00",
-    "tree_id": "0788961545e0399dc0bc61527753073f0f461042",
-    "url": "https://github.com/a1hena/IconBrowser/commit/1b59dadf460b414089bdfbd8ebd031e5e99b145c"
+    "id": "c80b388ab1a11c3d262eb1793e18d6d85f0110f2",
+    "message": "1.0.0.1",
+    "timestamp": "2026-01-05T21:28:30+09:00",
+    "tree_id": "57941e0b4c329f0bba41334d5cbdd105a8c78a37",
+    "url": "https://github.com/a1hena/IconBrowser/commit/c80b388ab1a11c3d262eb1793e18d6d85f0110f2"
   },
   "pusher": {
     "email": "102157679+a1hena@users.noreply.github.com",
@@ -168,7 +132,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/a1hena/IconBrowser/pulls{/number}",
-    "pushed_at": 1767615002,
+    "pushed_at": 1767616122,
     "releases_url": "https://api.github.com/repos/a1hena/IconBrowser/releases{/id}",
     "size": 0,
     "ssh_url": "git@github.com:a1hena/IconBrowser.git",
@@ -183,7 +147,7 @@
     "teams_url": "https://api.github.com/repos/a1hena/IconBrowser/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/a1hena/IconBrowser/git/trees{/sha}",
-    "updated_at": "2026-01-05T11:48:23Z",
+    "updated_at": "2026-01-05T12:10:05Z",
     "url": "https://api.github.com/repos/a1hena/IconBrowser",
     "visibility": "public",
     "watchers": 0,
