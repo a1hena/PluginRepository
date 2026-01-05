@@ -1,0 +1,16 @@
+{
+  "Author": "a1hena",
+  "Name": "IconBrowser",
+  "InternalName": "IconBrowser",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "A plugin to browse all FF14 UI icons, organized by patch version and category.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/a1hena/IconBrowser",
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Browse FF14 icons by patch and category",
+  "AcceptsFeedback": true
+}
